@@ -1,59 +1,63 @@
 {
-  "name": "@komunite/kalfa-os",
-  "version": "1.0.0",
-  "description": "Kalfa OS - Claude Code için Türkçe profesyonel işletim sistemi",
-  "private": false,
-  "license": "MIT",
-  "author": "Komunite",
-  "contributors": [
-    {
-      "name": "Doğu Abaris",
-      "email": "abaris@null.net",
-      "url": "https://doguabaris.bio"
-    },
-    {
-      "name": "Fatih Guner"
-    }
-  ],
-  "bin": {
-    "kalfa-os": "bin/kalfa-os.js"
-  },
-  "publishConfig": {
-    "access": "public"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/komunite/kalfa-os.git"
-  },
-  "bugs": {
-    "url": "https://github.com/komunite/kalfa-os/issues"
-  },
-  "website": "https://www.komunite.com.tr",
-  "homepage": "https://github.com/komunite/kalfa-os#readme",
-  "keywords": [
-    "claude-code",
-    "automation",
-    "workflow",
-    "agents",
-    "skills"
-  ],
-  "engines": {
-    "node": ">=18"
-  },
-  "scripts": {
-    "cli": "node ./bin/kalfa-os.js",
-    "cli:help": "node ./bin/kalfa-os.js --help",
-    "pack:preview": "npm pack --dry-run",
-    "test": "node --test tests/*.test.js",
-    "test:watch": "node --test --watch tests/*.test.js",
-    "lint": "npm run lint:md",
-    "check": "npm run lint:md",
-    "lint:md": "remark . --frail --quiet",
-    "lint:md:fix": "remark . --output --quiet"
-  },
-  "devDependencies": {
-    "remark-cli": "^12.0.1",
-    "remark-gfm": "^4.0.1",
-    "remark-preset-lint-recommended": "^7.0.1"
-  }
+	"name": "@komunite/kalfa-os",
+	"version": "1.0.0",
+	"description": "Kalfa OS - Claude Code için Türkçe profesyonel işletim sistemi",
+	"private": false,
+	"license": "MIT",
+	"author": "Komunite",
+	"contributors": [
+		{
+			"name": "Doğu Abaris",
+			"email": "abaris@null.net",
+			"url": "https://doguabaris.bio"
+		},
+		{
+			"name": "Fatih Guner"
+		}
+	],
+	"bin": {
+		"kalfa-os": "bin/kalfa-os.js"
+	},
+	"publishConfig": {
+		"access": "public"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/komunite/kalfa-os.git"
+	},
+	"bugs": {
+		"url": "https://github.com/komunite/kalfa-os/issues"
+	},
+	"website": "https://www.komunite.com.tr",
+	"homepage": "https://github.com/komunite/kalfa-os#readme",
+	"keywords": [
+		"claude-code",
+		"automation",
+		"workflow",
+		"agents",
+		"skills"
+	],
+	"engines": {
+		"node": ">=18"
+	},
+	"scripts": {
+		"cli": "node ./bin/kalfa-os.js",
+		"cli:help": "node ./bin/kalfa-os.js --help",
+		"pack:preview": "npm pack --dry-run",
+		"test": "node --test tests/*.test.js",
+		"test:watch": "node --test --watch tests/*.test.js",
+		"format": "biome format --write .",
+		"format:check": "biome format .",
+		"lint": "biome check . && npm run lint:md",
+		"lint:fix": "biome check --fix .",
+		"check": "biome check . && npm run lint:md",
+		"lint:md": "remark . --frail --quiet",
+		"lint:md:fix": "remark . --output --quiet"
+	},
+	"devDependencies": {
+		"@biomejs/biome": "^2.4.8",
+		"remark-cli": "^12.0.1",
+		"remark-gfm": "^4.0.1",
+		"remark-preset-lint-recommended": "^7.0.1"
+	}
 }

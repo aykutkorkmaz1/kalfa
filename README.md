@@ -92,7 +92,7 @@ kalfa-os --help
 1. Proje kök dizininde Claude Code'u açın.
    1. `.claude/` klasörünün mevcut olduğunu doğrulayın.
    2. `CLAUDE.md` dosyasının bulunduğunu kontrol edin.
-   3. `Task Board.md` dosyasının erişilebilir olduğundan emin olun.
+   3. `TaskBoard.md` dosyasının erişilebilir olduğundan emin olun.
 2. `/start` komutunu çalıştırın.
 3. Günün önceliklerini netleştirip ilk işe başlayın.
 
@@ -178,7 +178,7 @@ Kurulum:
 Yapılandırma:
 
 1. `.claude/settings.json` dosyasını proje ihtiyaçlarınıza göre düzenleyin.
-2. `memory.md`, `knowledge-base.md` ve `Task Board.md` dosyalarını proje bağlamıyla güncelleyin.
+2. `memory.md`, `knowledge-base.md` ve `TaskBoard.md` dosyalarını proje bağlamıyla güncelleyin.
 
 #### Build ve test
 

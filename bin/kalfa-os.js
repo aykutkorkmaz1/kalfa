@@ -8,8 +8,8 @@ const TEMPLATE_ITEMS = [
   "CLAUDE.md",
   "SETUP.md",
   "Scratchpad.md",
-  "Task Board.md",
-  "Daily Notes",
+  "TaskBoard.md",
+  "DailyNotes",
 ];
 
 function printHelp() {

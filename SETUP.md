@@ -61,8 +61,8 @@ cp -r ~/kalfa-os/.claude .
 cp ~/kalfa-os/CLAUDE.md .
 cp ~/kalfa-os/SETUP.md .
 cp ~/kalfa-os/Scratchpad.md .
-cp ~/kalfa-os/"Task Board.md" .
-cp -r ~/kalfa-os/"Daily Notes" .
+cp ~/kalfa-os/"TaskBoard.md" .
+cp -r ~/kalfa-os/"DailyNotes" .
 ```
 
 Bu işlem `.claude/` sistem dizinini ve iş akışı dosyalarını projenize ekler.

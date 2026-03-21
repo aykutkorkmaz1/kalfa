@@ -64,8 +64,8 @@ test("init copies starter files to target directory", async () => {
     "CLAUDE.md",
     "SETUP.md",
     "Scratchpad.md",
-    "Task Board.md",
-    "Daily Notes",
+    "TaskBoard.md",
+    "DailyNotes",
   ];
 
   for (const item of expected) {

@@ -26,7 +26,7 @@ Eşzamanlı oku:
 - `.claude/logs/incident-log.md` (sorunlar ve engeller)
 - `.claude/logs/failure-log.md` (araç başarısızlıkları)
 - `.claude/knowledge-nominations.md` (bekleyen öğrenimler)
-- `Task Board.md` (tamamlanma oranı)
+- `TaskBoard.md` (tamamlanma oranı)
 
 ### Adım 3: Kalıpları analiz et
 
@@ -82,4 +82,4 @@ Günlük nota ekle:
 
 ### Adım 6: Eylem kalemlerini oluştur
 
-Eyleme dönüştürülebilir iyileştirmeleri `Task Board.md` → Bu Hafta'ya ekle.
+Eyleme dönüştürülebilir iyileştirmeleri `TaskBoard.md` → Bu Hafta'ya ekle.

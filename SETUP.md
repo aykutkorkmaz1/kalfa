@@ -2,7 +2,7 @@
 
 Üretim kalitesinde bir Claude Code sistemine 3 adım kaldı.
 
----
+***
 
 ## 1. Claude Code'u Kur
 
@@ -21,6 +21,7 @@ irm https://claude.ai/install.ps1 | iex
 > **Not:** `ANTHROPIC_API_KEY` ortam değişkenin ayarlıysa, Claude Code abonelik yerine API hesabına fatura keser. İstemiyorsan `unset ANTHROPIC_API_KEY` çalıştır.
 
 > **Ön Gereksinim:** Güvenlik hook'ları `jq` (komut satırı JSON işleyicisi) gerektirir. Kurulu değilse yükle:
+>
 > ```bash
 > # Mac
 > brew install jq
@@ -31,6 +32,7 @@ irm https://claude.ai/install.ps1 | iex
 > # Windows (Chocolatey ile)
 > choco install jq
 > ```
+>
 > `jq --version` ile doğrula. `jq` olmadan hook'lar çalışır ama güvenlik kontrolleri (yedekleme doğrulaması, bütünlük kapıları, tehlikeli komut engelleme) sessizce atlanır.
 
 ## 2. Repo'yu klonla ve projeye kopyala
@@ -63,7 +65,7 @@ claude
 
 Ardından aşağıdaki tanıştırma prompt'unu yapıştırın. Bu, Claude'a projenizi taramasını, sistemi benimsemesini ve her şeyi sizin kurulumunuza göre yapılandırmasını söyler.
 
----
+***
 
 ## Tanıştırma Prompt'u (bunu kopyalayıp Claude Code'a yapıştırın)
 
@@ -94,7 +96,7 @@ Lütfen şunları yap:
 Önce tara, sonra soru sor — ilk taramayı yapmadan beni bekleme.
 ```
 
----
+***
 
 ## Neler Kurdunuz
 
@@ -120,18 +122,18 @@ Akşam:      /wrap-up
 
 ## Komutlar
 
-| Komut | Ne zaman kullanılır |
-|---|---|
-| `/start` | İş oturumunun başında |
-| `/sync` | Oturum ortasında bağlamı tazelemek için |
-| `/clear` | İlgisiz görevler arasında veya kalite düştüğünde |
-| `/wrap-up` | İş oturumunun sonunda |
-| `/audit` | Önemli bir iş bitirdikten sonra |
-| `/onboard` | Yeni bir codebase'i tanımak için |
-| `/unstick` | Bir problemde tıkandığında |
-| `/review` | Kod veya iş incelemesi için |
-| `/retro` | Sprint retrospektifi |
-| `/system-audit` | Derin altyapı sağlık kontrolü |
+| Komut           | Ne zaman kullanılır                              |
+| --------------- | ------------------------------------------------ |
+| `/start`        | İş oturumunun başında                            |
+| `/sync`         | Oturum ortasında bağlamı tazelemek için          |
+| `/clear`        | İlgisiz görevler arasında veya kalite düştüğünde |
+| `/wrap-up`      | İş oturumunun sonunda                            |
+| `/audit`        | Önemli bir iş bitirdikten sonra                  |
+| `/onboard`      | Yeni bir codebase'i tanımak için                 |
+| `/unstick`      | Bir problemde tıkandığında                       |
+| `/review`       | Kod veya iş incelemesi için                      |
+| `/retro`        | Sprint retrospektifi                             |
+| `/system-audit` | Derin altyapı sağlık kontrolü                    |
 
 ## SSS
 

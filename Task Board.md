@@ -1,13 +1,17 @@
 # Görev Panosu
 
 ## Bugün
-- [ ] Projeyi kur (`/start`)
+
+* [ ] Projeyi kur (`/start`)
 
 ## Bu Hafta
--
+
+*
 
 ## Bekleyen İşler
--
+
+*
 
 ## Tamamlanan
--
+
+*

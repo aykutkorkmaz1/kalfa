@@ -27,14 +27,8 @@
   "scripts": {
     "lint": "npm run lint:md",
     "check": "npm run lint:md",
-    "lint:md": "remark . --frail --quiet --ignore-pattern .claude/backups/** --ignore-pattern .claude/logs/**",
-    "lint:md:fix": "remark . --output --quiet --ignore-pattern .claude/backups/** --ignore-pattern .claude/logs/**"
-  },
-  "remarkConfig": {
-    "plugins": [
-      "remark-gfm",
-      "remark-preset-lint-recommended"
-    ]
+    "lint:md": "remark . --frail --quiet",
+    "lint:md:fix": "remark . --output --quiet"
   },
   "devDependencies": {
     "remark-cli": "^12.0.1",

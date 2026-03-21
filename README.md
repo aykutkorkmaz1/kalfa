@@ -4,7 +4,7 @@ Bu araç, Claude Code ile daha düzenli ve üretim kalitesinde çalışma yapman
 
 Proje durumu: aktif olarak geliştiriliyor
 
-NPM paketi: `https://www.npmjs.com/package/@komunite/kalfa-os`
+[![npm](https://img.shields.io/npm/v/%40komunite%2Fkalfa-os)](https://www.npmjs.com/package/@komunite/kalfa-os)
 
 ## Metrikler
 

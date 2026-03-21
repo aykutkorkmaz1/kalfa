@@ -1,134 +1,185 @@
 ---
-description: Create a pricing negotiation with structured process, quality checks, and system integration
+description: Solopreneurler icin fiyatlandirma ve pazarlik rehberi
 ---
 
-# Pricing Negotiation
+# Fiyatlandirma ve Pazarlik Rehberi (Pricing & Negotiation)
 
-## Amaç
+## Temel Felsefe
 
-Eyleme dönüştürülebilir, ölçülebilir sonuçlar sunan kapsamlı bir pricing negotiation oluşturun. Bu beceri, her seferinde profesyonel düzeyde çıktı sağlayan, kalite doğrulamalı yapılandırılmış bir süreç sunar.
-
-**Kategori**: Satış ve Gelir & Revenue
+Solopreneur olarak en buyuk hatan kendine karsi pazarlik yapmak. Musteri fiyat sormadan once dusurme. Fiyat soyle, sus, bekle. Rahatsizlik sana degil, sessizlige dayanamayan tarafa aittir. Fiyatini deger uzerinden kur, saat uzerinden degil.
 
 ## Girdiler
 
 ### Zorunlu
-- **Hedef**: Bu çıktı ile neyi başarmak istiyorsunuz
-- **Target Customer**: ICP or specific prospect details
+- **Hizmet/Urun**: Ne satiyorsun
+- **Teklif Edilen Fiyat**: Ne kadar istiyorsun
+- **Walkaway Number**: Asagisina inmeyecegin rakam
 
-### İsteğe Bağlı
-- **Product/Service**: What you're selling and key differentiators
-- **Stage**: Where the prospect is in the buying journey
+### Istege Bagli
+- **Musteri Butcesi**: Bildiklerin
+- **Rekabet Durumu**: Baska kimlerden teklif aliyorlar
+- **Iliski Gecmisi**: Mevcut musteri mi, yeni mi
 
-## Sistem Bağlamı
+## Altin Kural: Deger Bazli Fiyatlandirma (Value-Based Pricing)
 
-Başlamadan önce:
-- Mevcut proje bağlamı ve öncelikleri için `memory.md`'yi oku
-- İlgili öğrenilmiş kurallar veya kısıtlamalar için `knowledge-base.md`'yi kontrol et
-- Projedeki mevcut ilgili belgeleri gözden geçir
-- Bu çıktı ile ilgili `TaskBoard.md`'deki aktif görevleri not et
+Saat basina fiyat verme. Sonuca gore fiyatla.
 
-## Süreç
+| Yaklasim | Hesaplama | Sorun |
+|----------|-----------|-------|
+| **Saat bazli** | 40 saat x 250 TL = 10.000 TL | Hizli calisirsan cezalanirsin |
+| **Maliyet bazli** | Maliyetler + %30 kar = 10.000 TL | Musteriye deger gostermez |
+| **Deger bazli** | Musteri sonucu: +500K TL ciro. Senin fiyatin: 25.000 TL (%5) | Herkes kazanir |
 
-### Adım 1: Bağlam ve Araştırma
-- Projedeki mevcut pricing negotiation belgelerini gözden geçir
-- İlgili öğrenilmiş kurallar veya kısıtlamalar için `knowledge-base.md`'yi kontrol et
-- Mevcut proje bağlamı ve öncelikleri için `memory.md`'yi kontrol et
-- Kilit paydaşları ve gereksinimlerini belirle
-- En uygun çerçeveyi seç: BANT (Budget, Authority, Need, Timeline), MEDDIC, Challenger Sale
+**Nasil hesaplanir**:
+1. Musterinin bu isten elde edecegi sonucu TL'ye cevir
+2. O miktarin %5-20'sini fiyat olarak belirle
+3. Bu rakam saat bazli hesaplamanin uzerindeyse, value-based pricing yap
+4. Altindaysa saat bazli fiyatini kullan (minimum koruma)
 
-### Adım 2: Analiz ve Çerçeve Uygulaması
-- pricing negotiation yapılandırmak için seçilen çerçeveyi uygula
-- Boşlukları, fırsatları ve riskleri belirle
-- Başarı metriklerini tanımla: Win Rate, Average Deal Size, Sales Cycle Length, Pipeline Velocity
-- Varsayımları ve bağımlılıkları belgele
-- Yaklaşımı sektör en iyi uygulamalarına göre doğrula
+**Ornek**: E-ticaret sitesinin donusum oranini %1'den %2'ye cikaracaksin. Aylik ciro 500K TL. %1'lik artis = ayda +500K TL. Yillik etki = 6M TL. Senin fiyatin: 25.000-50.000 TL. Musteri icin bu 120x ROI.
 
-### Adım 3: Çıktıyı Oluştur
-- pricing negotiation aşağıdaki çıktı formatını kullanarak yapılandır
-- Genel tavsiyeler değil, spesifik ve eyleme dönüştürülebilir öneriler ekle
-- Uygulanabilir yerlerde somut rakamlar, zaman çizelgeleri ve kıyaslamalar ekle
-- Tutarlılık için mevcut proje belgeleriyle çapraz referans yap
-- Her bölümün değer kattığından emin ol — dolgu içeriği çıkar
+## Sessizlik Teknigi
 
-### Adım 4: Kalite Doğrulama
-- [ ] Tüm zorunlu girdiler ele alındı
-- [ ] Öneriler spesifik ve eyleme dönüştürülebilir (belirsiz değil)
-- [ ] Rakamlar ve kıyaslamalar gerçekçi ve kaynaklı
-- [ ] Çıktı formatı aşağıdaki spesifikasyona uyuyor
-- [ ] Bilgi tabanı kurallarıyla çelişki yok
-- [ ] En iyi pratiği izliyor: Qualify early and disqualify fast
+Fiyati soyle. Sonra kapat. Tek kelime etme.
 
-## Çıktı Formatı
+**Senaryo**:
+- Sen: "Bu proje icin yatirim 8.000 TL."
+- [Sessizlik — 5, 10, 15 saniye olabilir]
+- Musteri ya "tamam" der, ya soru sorar, ya itiraz eder
+- **Asla yapma**: "Ama tabii ki bunun uzerinde konusabiliriz..." diye ekleme
 
-```markdown
-# Pricing Negotiation
+**Neden calisir**: Fiyattan sonra konusmaya devam etmek guven eksikligi sinyali verir. Sessizlik ise "bu fiyat normal ve adil" mesaji tasir.
 
-## Yönetici Özeti
-[Çıktının ve temel önerilerin 2-3 cümlelik özeti]
+## Yaygin Tuzaklar ve Cevaplari
 
-## Bağlam ve Hedefler
-- **Hedef**: [Bunun neyi başardığı]
-- **Hedef Kitle**: [Bunun kimin için olduğu]
-- **Zaman Çizelgesi**: [Bunun ne zaman geçerli olduğu]
+### Tuzak 1: "En iyi fiyatiniz nedir?"
 
-## Analiz
-[Seçilen çerçeve kullanılarak yapılandırılmış analiz]
+Bu cumlede "daha ucuz yapin" yazmiyor. "Fiyatiniz ne" diyor. Panige kapilma.
 
-## Öneriler
-1. [Beklenen etkisiyle spesifik, eyleme dönüştürülebilir öneri]
-2. [Beklenen etkisiyle spesifik, eyleme dönüştürülebilir öneri]
-3. [Beklenen etkisiyle spesifik, eyleme dönüştürülebilir öneri]
+**Cevap**: "Projenin kapsamina gore 3 secenek hazirliyorum. [Baslangic] ile [Premium] arasinda degisiyor. Sizin onceliklerinize gore en uygun paketi birlikte belirleyelim."
 
-## Uygulama
-| Eylem | Sorumlu | Zaman Çizelgesi | Öncelik |
-|--------|-------|----------|----------|
-| [Eylem maddesi] | [Kim] | [Ne zaman] | [Yüksek/Orta/Düşük] |
+### Tuzak 2: "Butcemiz sadece X TL"
 
-## Başarı Metrikleri
-| Metrik | Mevcut | Hedef | Ölçüm Yöntemi |
-|--------|---------|--------|-------------------|
-| [KPI] | [Başlangıç] | [Hedef] | [Nasıl ölçülür] |
+Bu genellikle gercek degil. Test ediyorlar. Ama gercek olsa bile fiyat dusurme.
 
-## Riskler ve Azaltmalar
-| Risk | Olasılık | Etki | Azaltma |
-|------|-----------|--------|------------|
-| [Risk] | [Y/O/D] | [Y/O/D] | [Eylem] |
+**Cevap**: "Anliyorum. O butceyle su kapsamda calisabiliriz: [daraltilmis kapsam]. Tam kapsamlı cozum icin [orijinal fiyat] gerekiyor. Hangisi sizin icin daha mantikli?"
 
-## Sonraki Adımlar
-- [ ] [Hemen yapılacak eylem]
-- [ ] [Takip eylemi]
-- [ ] [Gözden geçirme tarihi]
+### Tuzak 3: "Rakibiniz daha ucuz teklif verdi"
+
+**Cevap**: "Olabilir. Benim fiyatim [spesifik sonuc] icin. [Rakip]'in kapsamini bilmiyorum ama kiyaslarken su sorulari sormanizi oneririm: Kac revizyon dahil? Destek suresi ne kadar? Benzer bir projenin sonuclarini gosterebilirler mi?"
+
+### Tuzak 4: "Uzun vadeli is verecegiz, ilk projede indirim yapin"
+
+**Cevap**: "Uzun vadeli calismayi ben de tercih ederim. Ilk projeyi tam fiyattan yapalim — sonuclarindan memnun kalirsaniz, ikinci projeden itibaren sadakat indirimi uygularim."
+
+### Tuzak 5: "Bunu dusunelim"
+
+Bu "hayir" demek degil ama "evet" de degil. Takip icin zemin hazirla.
+
+**Cevap**: "Tabii ki. Kararinizi kolaylastirmak icin bir sorum var: Karar vermenizi engelleyen spesifik bir konu var mi, yoksa sadece zamanlama mi?"
+
+## Kapsam Daraltma (Fiyat Dusurme Degil)
+
+Musteri butcesi gercekten yetersizse, fiyat degil kapsam dusur.
+
+| Musteri Der Ki | Sen Cevapla |
+|----------------|-------------|
+| "8.000 TL cok, 5.000 TL'miz var" | "5.000 TL ile analiz + tasarimi yaparim. Gelistirme ve testi ikinci faza birakabiliriz." |
+| "Tum butcemiz 3.000 TL" | "3.000 TL ile sadece audit + strateji raporu hazirlayabilirim. Uygulamayi siz veya baska bir kaynak yapabilir." |
+| "Bedava yapar misin, portfolyonuze girer" | "Tesekkurler ama is modelim bu sekilde calismiyor. Baslangic paketim [fiyat]'dan basliyor." |
+
+**Kritik kural**: Ayni isi daha ucuza yapma. Daha az isi ayni birim fiyatla yap.
+
+## Walkaway Number (Vazgecme Rakami)
+
+Her gorusmeden once bu rakami belirle. Asagisina inersen para kaybedersin (firsast maliyeti dahil).
+
+**Hesaplama**:
+1. Projenin sana gercek maliyeti (zaman x saat bazli minimum ucretin)
+2. + Firsat maliyeti (bu surde baska ne yapabilirdin)
+3. + Stres faktoru (zor musteri ise %20 ekle)
+4. = Walkaway number
+
+**Ornek**:
+- Proje tahmini: 30 saat
+- Minimum saat ucretin: 200 TL
+- Temel maliyet: 6.000 TL
+- Firsat maliyeti: bu surde baska 8.000 TL'lik is yapabilirsin
+- Walkaway number: 6.000 TL (bunun altinda isyi reddet)
+- Ideal fiyat: 10.000-12.000 TL (value-based)
+
+**Kural**: Walkaway number'i gorisme sirasinda ASLA degistirme. Onceden belirle, kagida yaz, gorusme sirasinda o kagida bak.
+
+## Mevcut Musterilerde Fiyat Artirma
+
+### Zamanlama
+- En az 3 ay onceden haber ver
+- Yil sonunu veya sozlesme yenileme donemini hedefle
+- Buyuk bir basari teslim ettikten hemen sonra yapma (manipulatif gorunur)
+
+### Iletisim Sablonu
+
+```
+Konu: [Sirket] — 2026 Fiyat Guncellemesi
+
+Merhaba [Isim],
+
+[Sirket] ile son [X ay/yil]dir calismayi cok degerli buluyorum.
+[Spesifik basari: orn: Donusum oranini %2.1'den %3.4'e cikardik]
+
+1 Temmuz 2026'dan itibaren fiyatlarimda bir guncelleme yapiyorum.
+[Hizmet], aylik [eski fiyat] yerine [yeni fiyat] olacak.
+
+Mevcut calisma kapsaminizdaki tum isler 30 Haziran'a kadar
+mevcut fiyattan devam eder.
+
+Sorulariniz varsa goruselim.
+
+[Isim]
 ```
 
-## Uygulanabilir Çerçeveler
-- BANT (Budget, Authority, Need, Timeline)
-- MEDDIC
-- Challenger Sale
-- SPIN Selling
-- Sandler Selling System
-- Solution Selling
-- Value Selling
+### Kurallar
+- **Artis orani**: Yilda max %15-20. Bunun uzerinde soku yaratir
+- **Grandfather clause**: Mevcut aktif projeleri eski fiyattan bitir
+- **Alternatif sun**: "Yeni fiyatla devam edebiliriz veya mevcut butcenize uygun daraltilmis bir kapsam belirleyebiliriz"
 
-## Temel Metrikler
-- Win Rate
-- Average Deal Size
-- Sales Cycle Length
-- Pipeline Velocity
-- Quota Attainment
-- Activity Metrics (calls/emails/meetings)
-- Forecast Accuracy
+## Pazarlik Oncesi Checklist
 
-## En İyi Pratikler
-- Qualify early and disqualify fast
-- Follow up within 5 minutes of inbound leads
-- Multi-thread every deal (3+ contacts)
-- Always confirm next steps before ending a call
-- Log every interaction in CRM within 24 hours
+- [ ] Walkaway number belirlendi mi?
+- [ ] Musterinin elde edecegi deger TL olarak hesaplandi mi?
+- [ ] 3 katmanli fiyat secenegi hazir mi?
+- [ ] Kapsam daraltma senaryolari planlanmis mi?
+- [ ] "Cok pahali" itirazina cevap hazir mi?
+- [ ] Sessizlik teknigini uygulamaya hazir misin?
 
-## Tamamlandıktan Sonra
+## Ornek Cikti
 
-- Bu çıktı proje bağlamını veya önceliklerini değiştiriyorsa `memory.md`'yi güncelle
-- Yeniden kullanılabilir öğrenmeleri `knowledge-nominations.md`'ye ekle
-- Takip eylemleri belirlendiyse bunları `TaskBoard.md`'ye ekle
-- Ek çalışma gerekiyorsa ilgili skill'leri öner
+### 5.000 TL'lik Projede Fiyat Itirazina Karsi Pazarlik Senaryosu
+
+**Durum**: Web sitesi yeniden tasarimi teklif ettin. Fiyat: 5.000 TL. Musteri geri geldi.
+
+---
+
+**Musteri**: "Teklif guzel ama 5.000 TL bizim icin yuksek. 3.000 TL'ye yapabilir misiniz?"
+
+**Sen**: "Anliyorum, butce onemli. Sunu soyle ifade edeyim — bu yatirimla sitenizin donusum oranini mevcut %0.8'den en az %1.5'e cikarmamiz hedefleniyor. Aylik 15.000 ziyaretcinizle bu, ayda 105 ekstra lead demek. Lead basiniza dusecek maliyet sadece 48 TL — Google Ads'te ayni lead icin 120-150 TL oduyorsunuz."
+
+[Sessizlik. Bekle.]
+
+**Musteri**: "Mantikli ama yine de 5.000 TL zor."
+
+**Sen**: "O zaman iki secenek sunabilirim. Birincisi: 5.000 TL'lik tam paketi 2 taksitle yapabiliriz — 2.500 TL baslangicta, 2.500 TL teslimde. Ikincisi: 3.500 TL ile sadece ana sayfa + 2 landing page tasarimi yaparim, blog ve diger sayfalari ikinci faza birakiriz. Hangisi sizin icin daha uygun?"
+
+**Musteri**: "Ikinci secenek olabilir aslinda."
+
+**Sen**: "Tamam. 3.500 TL ile ana sayfa, hizmet sayfasi ve iletisim sayfasini yeniden tasarliyorum. Teslim 3 haftada. 2 tur revizyon dahil. Onaylarsaniz yarin baslayabilirim. Sozlesmeyi bugun gondereyim mi?"
+
+---
+
+**Analiz**:
+- Fiyat 5.000 TL'den 3.000 TL'ye dusmedi
+- Kapsam daraltildi: 3.500 TL ile daha az is
+- Birim fiyat ayni kaldi (hatta hafif yukseldi)
+- Musteri kazandi: butcesine uygun cozum
+- Sen kazandin: deger korundu, ikinci faz firsati olustu
+- Acil kapanma saglandi: "yarin baslayabilirim"

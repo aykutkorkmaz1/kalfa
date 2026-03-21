@@ -1,133 +1,199 @@
 ---
-description: Create a case study with structured process, quality checks, and system integration
+description: Müşteri başarı hikayesi / case study yazma tarifi — STAR formatıyla güven inşa eden içerik
 ---
 
-# Case Study
+# Müşteri Başarı Hikayesi (Case Study) Yazma Tarifi
 
 ## Amaç
 
-Eyleme dönüştürülebilir, ölçülebilir sonuçlar sunan kapsamlı bir case study oluşturun. Bu beceri, her seferinde profesyonel düzeyde çıktı sağlayan, kalite doğrulamalı yapılandırılmış bir süreç sunar.
+Potansiyel müşterilerin "Bu benim için de işe yarar mı?" sorusuna somut kanıtla yanıt veren bir case study üret. Solopreneur'lar için: müşteriyi yormadan, hızlı onay alarak, maksimum dağıtım değeri sağlayacak şekilde.
 
-**Kategori**: İçerik ve Metin Yazarlığı & Copywriting
+**Kategori**: İçerik ve Metin Yazarlığı
 
 ## Girdiler
 
 ### Zorunlu
-- **Hedef**: Bu çıktı ile neyi başarmak istiyorsunuz
-- **Target Audience**: Who this is for (demographics, psychographics, pain points)
+- **Müşteri Bilgisi**: İsim, şirket, sektör (izinli)
+- **Sonuç Metrikleri**: Ölçülebilir başarı (gelir artışı, zaman tasarrufu, dönüşüm oranı vb.)
 
 ### İsteğe Bağlı
-- **Brand Voice**: Tone and style guidelines (check knowledge-base for existing)
-- **Competitors**: Key competitors to differentiate from
+- **Müşteri Röportajı**: Yapıldıysa notlar veya transkript
+- **Öncesi/Sonrası Verileri**: Ekran görüntüleri, dashboard'lar
 
-## Sistem Bağlamı
+## Adım 1: Müşteriden İzin ve Malzeme Toplama
 
-Başlamadan önce:
-- Mevcut proje bağlamı ve öncelikleri için `memory.md`'yi oku
-- İlgili öğrenilmiş kurallar veya kısıtlamalar için `knowledge-base.md`'yi kontrol et
-- Projedeki mevcut ilgili belgeleri gözden geçir
-- Bu çıktı ile ilgili `TaskBoard.md`'deki aktif görevleri not et
+### İzin Alma Şablonu (Kopyala-Yapıştır)
 
-## Süreç
+```
+Merhaba [İsim],
 
-### Adım 1: Bağlam ve Araştırma
-- Projedeki mevcut case study belgelerini gözden geçir
-- İlgili öğrenilmiş kurallar veya kısıtlamalar için `knowledge-base.md`'yi kontrol et
-- Mevcut proje bağlamı ve öncelikleri için `memory.md`'yi kontrol et
-- Kilit paydaşları ve gereksinimlerini belirle
-- En uygun çerçeveyi seç: AIDA for copy, PAS (Problem-Agitate-Solve), BAB (Before-After-Bridge)
+Sizinle çalışmamızın harika sonuçlarını bir başarı hikayesi olarak
+paylaşmak istiyorum. Bu sizi de öne çıkarır — sitenize/LinkedIn'inize
+bağlantı veririm.
 
-### Adım 2: Analiz ve Çerçeve Uygulaması
-- case study yapılandırmak için seçilen çerçeveyi uygula
-- Boşlukları, fırsatları ve riskleri belirle
-- Başarı metriklerini tanımla: Readability Score (Flesch-Kincaid 60+), Time on Page, Scroll Depth, Social Shares
-- Varsayımları ve bağımlılıkları belgele
-- Yaklaşımı sektör en iyi uygulamalarına göre doğrula
+Gerekli olan: 15 dakikalık kısa bir görüşme (veya yazılı 5 soru).
+Yayından önce onayınızı alırım, son söz sizde.
 
-### Adım 3: Çıktıyı Oluştur
-- case study aşağıdaki çıktı formatını kullanarak yapılandır
-- Genel tavsiyeler değil, spesifik ve eyleme dönüştürülebilir öneriler ekle
-- Uygulanabilir yerlerde somut rakamlar, zaman çizelgeleri ve kıyaslamalar ekle
-- Tutarlılık için mevcut proje belgeleriyle çapraz referans yap
-- Her bölümün değer kattığından emin ol — dolgu içeriği çıkar
-
-### Adım 4: Kalite Doğrulama
-- [ ] Tüm zorunlu girdiler ele alındı
-- [ ] Öneriler spesifik ve eyleme dönüştürülebilir (belirsiz değil)
-- [ ] Rakamlar ve kıyaslamalar gerçekçi ve kaynaklı
-- [ ] Çıktı formatı aşağıdaki spesifikasyona uyuyor
-- [ ] Bilgi tabanı kurallarıyla çelişki yok
-- [ ] En iyi pratiği izliyor: Write at 8th grade reading level for general audiences
-
-## Çıktı Formatı
-
-```markdown
-# Case Study
-
-## Yönetici Özeti
-[Çıktının ve temel önerilerin 2-3 cümlelik özeti]
-
-## Bağlam ve Hedefler
-- **Hedef**: [Bunun neyi başardığı]
-- **Hedef Kitle**: [Bunun kimin için olduğu]
-- **Zaman Çizelgesi**: [Bunun ne zaman geçerli olduğu]
-
-## Analiz
-[Seçilen çerçeve kullanılarak yapılandırılmış analiz]
-
-## Öneriler
-1. [Beklenen etkisiyle spesifik, eyleme dönüştürülebilir öneri]
-2. [Beklenen etkisiyle spesifik, eyleme dönüştürülebilir öneri]
-3. [Beklenen etkisiyle spesifik, eyleme dönüştürülebilir öneri]
-
-## Uygulama
-| Eylem | Sorumlu | Zaman Çizelgesi | Öncelik |
-|--------|-------|----------|----------|
-| [Eylem maddesi] | [Kim] | [Ne zaman] | [Yüksek/Orta/Düşük] |
-
-## Başarı Metrikleri
-| Metrik | Mevcut | Hedef | Ölçüm Yöntemi |
-|--------|---------|--------|-------------------|
-| [KPI] | [Başlangıç] | [Hedef] | [Nasıl ölçülür] |
-
-## Riskler ve Azaltmalar
-| Risk | Olasılık | Etki | Azaltma |
-|------|-----------|--------|------------|
-| [Risk] | [Y/O/D] | [Y/O/D] | [Eylem] |
-
-## Sonraki Adımlar
-- [ ] [Hemen yapılacak eylem]
-- [ ] [Takip eylemi]
-- [ ] [Gözden geçirme tarihi]
+Uygun musunuz?
 ```
 
-## Uygulanabilir Çerçeveler
-- AIDA for copy
-- PAS (Problem-Agitate-Solve)
-- BAB (Before-After-Bridge)
-- Inverted Pyramid
-- Hub and Spoke content model
-- Content Atomization
-- StoryBrand
+**Kural**: Müşterinin işini kolay tut. 15 dakikadan fazla isteme. Yazılı yanıt seçeneği sun. Yayın öncesi onay garantisi ver.
+
+## Adım 2: Müşteri Röportajı — 7 Kritik Soru
+
+Bu sorular STAR (Situation → Task → Action → Result) formatının iskeletini oluşturur:
+
+### Situation (Durum)
+1. **"Bize ulaşmadan önce en büyük sorununuz neydi?"** — Acı noktasını kendi ağzından al
+2. **"Bu sorunu çözmek için daha önce ne denediniz?"** — Başarısız alternatifleri gösterir
+
+### Task (Görev)
+3. **"Bizden tam olarak ne bekliyordunuz? Başarı sizin için ne anlama geliyordu?"** — Beklenti çerçevesini kurar
+
+### Action (Eylem)
+4. **"Birlikte çalışma sürecini nasıl tanımlarsınız?"** — Süreç güvenilirliğini gösterir
+5. **"Hangi özellik/yaklaşım en çok fark yarattı?"** — Differentiator'ını müşteriye söylet
+
+### Result (Sonuç)
+6. **"Somut olarak ne değişti? Rakam verebilir misiniz?"** — %40 gelir artışı, 10 saat/hafta tasarruf gibi
+7. **"Bu ürünü/hizmeti kime tavsiye edersiniz ve neden?"** — Doğal referans + hedef kitle tanımı
+
+**İpucu**: Görüşmeyi kaydet (izinli). En iyi alıntılar doğal konuşmadan çıkar, yazılı yanıtlardan değil.
+
+## Adım 3: Case Study Yapısı
+
+```markdown
+# [Sonuç odaklı başlık — rakam içermeli]
+Ör: "[Müşteri Adı], [Ürün/Hizmet] ile 3 Ayda Gelirini %40 Artırdı"
+
+> "[En güçlü müşteri alıntısı — 1-2 cümle, sonuç odaklı]"
+> — [İsim], [Ünvan], [Şirket]
+
+## Bir Bakışta
+| | Öncesi | Sonrası |
+|---|--------|---------|
+| [Metrik 1] | [Değer] | [Değer] |
+| [Metrik 2] | [Değer] | [Değer] |
+| [Metrik 3] | [Değer] | [Değer] |
+
+## Sorun
+[2-3 paragraf: Müşterinin başlangıç durumu, acı noktaları, daha
+önce deneyip işe yaramayan çözümler. Mümkünse müşterinin kendi
+kelimeleriyle.]
+
+## Çözüm
+[2-3 paragraf: Ne yaptınız, nasıl yaptınız, süreç nasıl işledi.
+Spesifik olun — "stratejik danışmanlık verdik" değil, "haftalık
+30 dakikalık görüşmelerle 6 haftalık e-posta dizisi kurduk".]
+
+## Sonuçlar
+[Rakamlarla sonuçlar. Madde listesi veya tablo kullan:]
+- Gelir: Aylık 15.000₺ → 21.000₺ (%40 artış)
+- Zaman: Haftalık 20 saat manuel iş → 5 saat (otomasyon ile)
+- Müşteri Memnuniyeti: NPS 32 → 68
+
+> "[İkinci alıntı — süreç veya deneyim hakkında]"
+
+## Kimler İçin Uygun
+[1 paragraf: Bu çözüm hangi profildeki müşteriler için ideal.
+Okuyan kişi kendini tanımlayabilmeli.]
+```
+
+### Başlık Formülleri
+- `[Müşteri], [Ürün] ile [Süre]'de [Sonuç]` — en etkili format
+- `[Müşteri]'nin [Sorun]'dan [Sonuç]'a Yolculuğu`
+- `Nasıl [Sonuç]? [Müşteri]'nin Hikayesi`
+
+## Adım 4: Yazım Kuralları
+
+- **Müşteri kahraman, sen araç.** Hikayenin kahramanı müşteri olmalı, sen değil
+- **Rakam > sıfat.** "Harika sonuçlar" yerine "%40 gelir artışı"
+- **Alıntı > anlatım.** Mümkün olan her yerde müşterinin kendi sözlerini kullan
+- **Öncesi/sonrası zorunlu.** Tablo veya görsel ile net karşılaştırma
+- Jargon kullanma — potansiyel müşteri de anlayabilmeli
+- Uzunluk: 500-800 kelime. Kısa, öz, skimlenebilir
+- Her case study tek bir net sonuç etrafında dönmeli
+
+## Adım 5: Dağıtım Planı
+
+Bir case study 5 farklı yerde çalışır:
+
+| Kanal | Format | Nasıl |
+|-------|--------|-------|
+| Website | Tam case study sayfası | Özel sayfa, CTA ile |
+| LinkedIn | 200 kelimelik özet + bağlantı | Hook: "Müşterimiz 3 ayda %40 büyüdü. İşte nasıl:" |
+| E-posta | Nurture dizisine ekle | Satış e-postası #3 veya #4 olarak |
+| Satış görüşmesi | PDF veya tek sayfa | "Size benzer bir müşterimizin hikayesi..." |
+| Teklif dosyası | Kısa referans kartı | Öncesi/sonrası tablosu + alıntı |
+
+## Adım 6: Kalite Kontrol
+
+- [ ] Müşteri yazılı izin verdi
+- [ ] En az 2 somut rakam var (öncesi/sonrası)
+- [ ] En az 1 doğrudan müşteri alıntısı var
+- [ ] Başlıkta sonuç rakamı var
+- [ ] 500-800 kelime arasında
+- [ ] Müşteri yayın öncesi onay verdi
+- [ ] CTA eklendi (demo, görüşme, deneme)
 
 ## Temel Metrikler
-- Readability Score (Flesch-Kincaid 60+)
-- Time on Page
-- Scroll Depth
-- Social Shares
-- Backlinks Generated
-- Conversion Rate from Content
 
-## En İyi Pratikler
-- Write at 8th grade reading level for general audiences
-- One idea per paragraph, max 3 sentences
-- Front-load the value — answer the question in the first 100 words
-- Use active voice (90%+ of sentences)
-- Every piece needs a clear CTA
+| Metrik | Hedef | Ölçüm |
+|--------|-------|-------|
+| Satış dönüşüm etkisi | Tekliflerde +%15 kabul | CRM takibi |
+| Sayfa görüntülenme | Ayda 200+ | Google Analytics |
+| LinkedIn etkileşim | 50+ reaction | LinkedIn Analytics |
+| Satış ekibi kullanımı | Her teklifte 1 case study | Manuel takip |
 
-## Tamamlandıktan Sonra
+## Örnek Çıktı
 
-- Bu çıktı proje bağlamını veya önceliklerini değiştiriyorsa `memory.md`'yi güncelle
-- Yeniden kullanılabilir öğrenmeleri `knowledge-nominations.md`'ye ekle
-- Takip eylemleri belirlendiyse bunları `TaskBoard.md`'ye ekle
-- Ek çalışma gerekiyorsa ilgili skill'leri öner
+```markdown
+# Elif Yazılım, TaskFlow ile 3 Ayda Gelirini %40 Artırdı
+
+> "Manuel takip e-postalarına haftada 15 saat harcıyordum. TaskFlow
+> ile bu 2 saate düştü ve hiçbir müşteri adayını kaçırmıyorum."
+> — Elif Demir, Kurucu, Elif Yazılım
+
+## Bir Bakışta
+| | Öncesi | Sonrası |
+|---|--------|---------|
+| Aylık gelir | 28.000₺ | 39.200₺ |
+| Haftalık manuel iş | 15 saat | 2 saat |
+| Lead dönüşüm oranı | %8 | %19 |
+
+## Sorun
+Elif Demir, 2 kişilik bir yazılım danışmanlık firması yönetiyordu.
+Müşteri adaylarını Excel'de takip ediyor, her birine tek tek
+e-posta yazıyordu. "Bazen 3 gün sonra yanıt verdiğimde müşteri
+çoktan başka biriyle anlaşmıştı" diyor Elif.
+
+Daha önce büyük bir CRM denemiş ama kurulumu 3 hafta sürmüş ve
+solopreneur ihtiyaçları için fazla karmaşık bulmuştu.
+
+## Çözüm
+TaskFlow'un 7 günlük hoş geldin dizisi ve otomatik takip
+e-postalarını kurdum. Süreç:
+- 1. hafta: Mevcut müşteri listesini içe aktarma (45 dakika)
+- 2. hafta: 5 e-postalık nurture dizisi yazımı ve kurulumu
+- 3. hafta: Otomatik lead scoring aktifleştirme
+
+Haftalık 30 dakikalık kontrol görüşmeleriyle ince ayar yaptık.
+
+## Sonuçlar
+- **Gelir**: Aylık 28.000₺ → 39.200₺ (%40 artış, 3. ay sonu)
+- **Zaman**: Haftalık 15 saat manuel iş → 2 saat
+- **Dönüşüm**: Lead'den müşteriye dönüşüm %8 → %19
+- **Yanıt süresi**: Ortalama 48 saat → 2 saat (otomasyon)
+
+> "En çok şaşırtan şey ne kadar hızlı kurulduğuydu. İlk hafta
+> sonunda zaten çalışıyordu."
+
+## Kimler İçin Uygun
+1-5 kişilik hizmet bazlı işletmeler, danışmanlar ve freelancer'lar
+için ideal. CRM'e ihtiyaç duyan ama kurumsal karmaşıklık
+istemeyen solopreneur'lar.
+
+---
+Benzer sonuçlar almak ister misiniz?
+[15 dakikalık ücretsiz strateji görüşmesi ayırtın →](/gorusme)
+```

@@ -1,132 +1,200 @@
 ---
-description: Create a mvp definition with structured process, quality checks, and system integration
+description: Solopreneurler icin adim adim MVP tanimlama rehberi — kapsam kesme, dogrulama ve 2-6 haftada insaya hazir bir plan
 ---
 
-# Mvp Definition
+# MVP Tanımlama Rehberi
 
 ## Amaç
 
-Eyleme dönüştürülebilir, ölçülebilir sonuçlar sunan kapsamlı bir mvp definition oluşturun. Bu beceri, her seferinde profesyonel düzeyde çıktı sağlayan, kalite doğrulamalı yapılandırılmış bir süreç sunar.
+Solopreneur olarak en büyük risk, kimsenin istemediği bir şeyi inşa etmektir. Bu skill, "1 kullanıcı, 1 problem, 1 çözüm" kuralıyla kapsamı acımasızca keser, inşa etmeden önce doğrulama yaptırır ve 2-6 haftalık bir MVP planı çıkartır.
 
-**Kategori**: Girişimcilik & Entrepreneurship
+**Kategori**: Girişimcilik & Startup
 
-## Girdiler
+## Temel Kural: 1-1-1
 
-### Zorunlu
-- **Hedef**: Bu çıktı ile neyi başarmak istiyorsunuz
-- **Bağlam**: İlgili arka plan bilgileri
+Her MVP tam olarak şu üçlüyü tanımlamalıdır:
+- **1 Kullanıcı**: Tek bir persona (ör. "Türkiye'deki freelance grafik tasarımcılar")
+- **1 Problem**: Tek bir acı nokta (ör. "Müşteri takibi ve fatura kesimi dağınık")
+- **1 Çözüm**: Tek bir değer önerisi (ör. "Müşteri + fatura yönetimi tek ekranda")
 
-### İsteğe Bağlı
-- **Kısıtlamalar**: Dikkate alınması gereken sınırlamalar veya gereksinimler
-- **Mevcut Çalışma**: Üzerine inşa edilecek önceki belgeler veya veriler
+Eğer cümle içinde "ve" veya "ayrıca" geçiyorsa, kapsam çok geniş demektir.
 
-## Sistem Bağlamı
+## Adım 1: Kapsam Kesme — MoSCoW Metodu
 
-Başlamadan önce:
-- Mevcut proje bağlamı ve öncelikleri için `memory.md`'yi oku
-- İlgili öğrenilmiş kurallar veya kısıtlamalar için `knowledge-base.md`'yi kontrol et
-- Projedeki mevcut ilgili belgeleri gözden geçir
-- Bu çıktı ile ilgili `TaskBoard.md`'deki aktif görevleri not et
+30 özellik yaz, sonra acımasızca kes:
 
-## Süreç
+1. Beyin fırtınası yap: Ürünün yapabileceği **30 özelliği** listele (süre: 15 dakika)
+2. Her özelliği MoSCoW ile sınıflandır:
 
-### Adım 1: Bağlam ve Araştırma
-- Projedeki mevcut mvp definition belgelerini gözden geçir
-- İlgili öğrenilmiş kurallar veya kısıtlamalar için `knowledge-base.md`'yi kontrol et
-- Mevcut proje bağlamı ve öncelikleri için `memory.md`'yi kontrol et
-- Kilit paydaşları ve gereksinimlerini belirle
-- En uygun çerçeveyi seç: Lean Startup, Business Model Canvas, Lean Canvas
+| Kategori | Tanım | MVP'de var mı? | Hedef sayı |
+|----------|--------|----------------|------------|
+| **Must** | Bu olmadan ürün çalışmaz | Evet | 3-5 özellik |
+| **Should** | Önemli ama v1.1'e kalabilir | Hayır | Sonraki sprint |
+| **Could** | Güzel olur ama kritik değil | Hayır | Backlog |
+| **Won't** | Bu versiyonda kesinlikle yok | Hayır | Çöpe at |
 
-### Adım 2: Analiz ve Çerçeve Uygulaması
-- mvp definition yapılandırmak için seçilen çerçeveyi uygula
-- Boşlukları, fırsatları ve riskleri belirle
-- Başarı metriklerini tanımla: Monthly Burn Rate, Runway (months), MoM Growth Rate, CAC/LTV Ratio (target: 1:3+)
-- Varsayımları ve bağımlılıkları belgele
-- Yaklaşımı sektör en iyi uygulamalarına göre doğrula
+3. **Must kategorisinden en fazla 5 özellik** seç
+4. Her özellik için "Bu olmadan kullanıcı parayı öder mi?" sorusunu sor — cevap hayırsa, Should'a taşı
 
-### Adım 3: Çıktıyı Oluştur
-- mvp definition aşağıdaki çıktı formatını kullanarak yapılandır
-- Genel tavsiyeler değil, spesifik ve eyleme dönüştürülebilir öneriler ekle
-- Uygulanabilir yerlerde somut rakamlar, zaman çizelgeleri ve kıyaslamalar ekle
-- Tutarlılık için mevcut proje belgeleriyle çapraz referans yap
-- Her bölümün değer kattığından emin ol — dolgu içeriği çıkar
+## Adım 2: İnşa Etmeden Önce Doğrula
 
-### Adım 4: Kalite Doğrulama
-- [ ] Tüm zorunlu girdiler ele alındı
-- [ ] Öneriler spesifik ve eyleme dönüştürülebilir (belirsiz değil)
-- [ ] Rakamlar ve kıyaslamalar gerçekçi ve kaynaklı
-- [ ] Çıktı formatı aşağıdaki spesifikasyona uyuyor
-- [ ] Bilgi tabanı kurallarıyla çelişki yok
-- [ ] En iyi pratiği izliyor: Talk to 100 potential customers before building
+Kod yazmadan önce şu 3 testten en az birini uygula:
 
-## Çıktı Formatı
+### Test A: Fake Door Test (1-2 gün)
+- Ürünün landing page'ini oluştur (Carrd.co veya Framer ile, ücretsiz)
+- "Erken erişim için kaydol" butonu koy
+- Google Ads veya sosyal medyada 50-100 TL'lik reklam ver
+- **Başarı kriteri**: %5+ dönüşüm oranı (100 ziyaretçiden 5+ kayıt)
+
+### Test B: Concierge MVP (1-2 hafta)
+- Ürünün yapacağı işi **elle, manuel olarak** yap
+- İlk 5-10 müşteriye hizmeti sen sun (spreadsheet + email ile)
+- **Başarı kriteri**: 5 kişiden 3'ü "bunu düzenli kullanırım" derse devam et
+
+### Test C: Pre-sell Testi — "Ödeyecekler mi?" (3-5 gün)
+- Gumroad veya Lemon Squeezy'de ön sipariş sayfası aç
+- Fiyatı yaz, "Geliştirme aşamasında — Haziran'da teslim" notu ekle
+- **Başarı kriteri**: En az 10 ön satış veya $500+ gelir
+
+**Hiçbir test başarılı olmazsa, pivot yap. Kod yazma.**
+
+## Adım 3: Zaman Kutusu Belirle
+
+| MVP Boyutu | Süre | Özellik sayısı | Tek kişi için uygun mu? |
+|-----------|------|----------------|------------------------|
+| Mikro MVP | 2 hafta | 2-3 özellik | Evet, ideal |
+| Standart MVP | 4 hafta | 4-5 özellik | Evet |
+| Maksimum MVP | 6 hafta | 5-7 özellik | Riskli, dikkatli ol |
+| 6 hafta+ | YAPMA | — | Kapsam kayması belirtisi |
+
+**Haftalık ritim**:
+- Hafta 1: Temel altyapı + 1 ana özellik
+- Hafta 2-3: Kalan Must özellikleri
+- Hafta 4: Ödeme entegrasyonu + landing page
+- Hafta 5 (varsa): Bug fix + beta kullanıcılardan geri bildirim
+- Hafta 6 (varsa): İyileştirme + launch hazırlığı
+
+## Adım 4: Teknoloji Kararı — Sıkıcı Teknoloji Kazanır
+
+Solopreneur olarak egzotik teknoloji seçme. Şu kuralı uygula:
+
+**Web SaaS için varsayılan stack**:
+- Frontend: Next.js veya Remix (React biliyorsan) / Nuxt (Vue biliyorsan)
+- Backend: Aynı framework'ün API routes'ları (ayrı backend YAPMA)
+- Veritabanı: Supabase (PostgreSQL + Auth + Storage hepsi bir arada)
+- Ödeme: Stripe veya Lemon Squeezy (Türkiye'den satış için Lemon Squeezy daha kolay)
+- Hosting: Vercel (frontend) + Supabase (backend) — ikisi de ücretsiz tier var
+- Email: Resend veya Loops
+
+**Mobil uygulama yapma** — ilk MVP her zaman web olsun. Mobil ihtiyaç varsa PWA yap.
+
+**Karar ağacı**:
+- Bildiğin teknoloji var mı? → Onu kullan
+- Bilmiyorsan → Yukarıdaki varsayılan stack'i al
+- "Ama X teknolojisi daha iyi" → Önemli değil, shipping hızı her şeyi yener
+
+## Adım 5: MVP Tanım Belgesi Oluştur
+
+Aşağıdaki şablonu doldur:
 
 ```markdown
-# Mvp Definition
+# MVP Tanımı: [Ürün Adı]
 
-## Yönetici Özeti
-[Çıktının ve temel önerilerin 2-3 cümlelik özeti]
+## Problem Cümlesi
+[Persona], [bağlam] sırasında [problem] yaşıyor. Bu yüzden [olumsuz sonuç].
 
-## Bağlam ve Hedefler
-- **Hedef**: [Bunun neyi başardığı]
-- **Hedef Kitle**: [Bunun kimin için olduğu]
-- **Zaman Çizelgesi**: [Bunun ne zaman geçerli olduğu]
+## Çözüm (tek cümle)
+[Ürün], [persona]'nın [problem]'ini [nasıl] çözer.
 
-## Analiz
-[Seçilen çerçeve kullanılarak yapılandırılmış analiz]
+## Must Özellikler (max 5)
+1. [Özellik] — çünkü [bu olmadan ürün çalışmaz]
+2. ...
 
-## Öneriler
-1. [Beklenen etkisiyle spesifik, eyleme dönüştürülebilir öneri]
-2. [Beklenen etkisiyle spesifik, eyleme dönüştürülebilir öneri]
-3. [Beklenen etkisiyle spesifik, eyleme dönüştürülebilir öneri]
+## Won't Özellikler (bilinçli kararlar)
+- [Özellik] — çünkü [neden v1'de yok]
 
-## Uygulama
-| Eylem | Sorumlu | Zaman Çizelgesi | Öncelik |
-|--------|-------|----------|----------|
-| [Eylem maddesi] | [Kim] | [Ne zaman] | [Yüksek/Orta/Düşük] |
+## Doğrulama Sonuçları
+- Test tipi: [Fake Door / Concierge / Pre-sell]
+- Sonuç: [Rakamlar]
+- Karar: [Devam / Pivot]
 
-## Başarı Metrikleri
-| Metrik | Mevcut | Hedef | Ölçüm Yöntemi |
-|--------|---------|--------|-------------------|
-| [KPI] | [Başlangıç] | [Hedef] | [Nasıl ölçülür] |
+## Zaman Çizelgesi
+- Başlangıç: [tarih]
+- MVP teslim: [tarih] (max 6 hafta)
+- İlk ödeme alan müşteri hedefi: [tarih]
 
-## Riskler ve Azaltmalar
-| Risk | Olasılık | Etki | Azaltma |
-|------|-----------|--------|------------|
-| [Risk] | [Y/O/D] | [Y/O/D] | [Eylem] |
+## Başarı Metrikleri (ilk 30 gün)
+- [ ] 100+ kayıtlı kullanıcı
+- [ ] 10+ ödeme yapan müşteri
+- [ ] %40+ Activation Rate
+- [ ] Sean Ellis Test: %40+ "çok hayal kırıklığına uğrarım" yanıtı
 
-## Sonraki Adımlar
-- [ ] [Hemen yapılacak eylem]
-- [ ] [Takip eylemi]
-- [ ] [Gözden geçirme tarihi]
+## Teknoloji Stack
+- [Framework]: [neden]
+- [Veritabanı]: [neden]
+- [Hosting]: [neden]
 ```
 
-## Uygulanabilir Çerçeveler
-- Lean Startup
-- Business Model Canvas
-- Lean Canvas
-- Product-Market Fit Engine
-- Venture Capital Method
-- TAM/SAM/SOM
+## Kalite Kontrolü
 
-## Temel Metrikler
-- Monthly Burn Rate
-- Runway (months)
-- MoM Growth Rate
-- CAC/LTV Ratio (target: 1:3+)
-- Activation Rate
-- Sean Ellis Test (40%+ very disappointed)
+MVP tanımını bitirdikten sonra şu kontrol listesini uygula:
 
-## En İyi Pratikler
-- Talk to 100 potential customers before building
-- Default alive vs default dead — know your status
-- Focus on one metric per stage
-- 18 months runway minimum after raising
-- Weekly team updates, monthly investor updates
+- [ ] Tek bir persona tanımlanmış mı?
+- [ ] Problem cümlesi "ve" içermiyor mu? (içeriyorsa kapsamı kes)
+- [ ] Must özellikler 5'i geçmiyor mu?
+- [ ] En az 1 doğrulama testi yapılmış mı?
+- [ ] Süre 6 haftayı geçmiyor mu?
+- [ ] "Ödeyecekler mi?" sorusunun cevabı kanıtla desteklenmiş mi?
+- [ ] Teknoloji stack'i "sıkıcı" mı? (yeni, denenmemiş teknoloji yok mu?)
 
-## Tamamlandıktan Sonra
+## Örnek Çıktı
 
-- Bu çıktı proje bağlamını veya önceliklerini değiştiriyorsa `memory.md`'yi güncelle
-- Yeniden kullanılabilir öğrenmeleri `knowledge-nominations.md`'ye ekle
-- Takip eylemleri belirlendiyse bunları `TaskBoard.md`'ye ekle
-- Ek çalışma gerekiyorsa ilgili skill'leri öner
+```markdown
+# MVP Tanımı: FreelancerCRM
+
+## Problem Cümlesi
+Türkiye'deki freelance yazılımcılar, müşteri takibi için WhatsApp + Excel +
+e-fatura portalı arasında gidip geliyor. Bu yüzden ayda ortalama 3 saat
+sadece idari işlere harcıyor ve 10 müşteriden 2'sinin faturası gecikiyor.
+
+## Çözüm (tek cümle)
+FreelancerCRM, freelance yazılımcıların müşteri, proje ve fatura
+yönetimini tek bir dashboard'da yapmasını sağlar.
+
+## Must Özellikler
+1. Müşteri listesi + iletişim bilgileri — CRM'in temeli
+2. Proje takibi (aktif/tamamlanmış/bekleyen) — iş durumu görünürlüğü
+3. Fatura oluşturma (PDF export) — e-fatura entegrasyonu v2'de
+4. Dashboard: Bu ay kazanılan, bekleyen ödeme, aktif proje sayısı
+5. Email hatırlatma: Vadesi geçen faturalar için otomatik reminder
+
+## Won't Özellikler
+- Zaman takibi (time tracking) — v1.1'de
+- Teklif/proposal oluşturma — v2'de
+- Mobil uygulama — PWA yeterli
+- Çoklu dil desteği — sadece Türkçe başlıyoruz
+- Takım özellikleri — solopreneur ürünü
+
+## Doğrulama Sonuçları
+- Test tipi: Fake Door Test (Carrd landing page + LinkedIn reklamı)
+- Sonuç: 340 ziyaretçi, 28 kayıt (%8.2 dönüşüm), 4 kişi DM'den fiyat sordu
+- Karar: Devam — %5 eşiğini geçtik
+
+## Zaman Çizelgesi
+- Başlangıç: 1 Nisan
+- MVP teslim: 6 Mayıs (5 hafta)
+- İlk ödeme alan müşteri hedefi: 15 Mayıs
+
+## Başarı Metrikleri (ilk 30 gün)
+- [ ] 100+ kayıtlı kullanıcı
+- [ ] 10+ ödeme yapan müşteri (₺99/ay)
+- [ ] %40+ Activation Rate (kayıt → ilk müşteri ekleme)
+- [ ] Sean Ellis Test: %40+ "çok hayal kırıklığına uğrarım"
+
+## Teknoloji Stack
+- Next.js 14 (App Router): Bildiğim framework, full-stack
+- Supabase: Auth + DB + Storage hepsi bir arada
+- Vercel: Ücretsiz tier, Next.js ile mükemmel entegrasyon
+- Lemon Squeezy: Türkiye'den satış için Stripe'dan kolay
+- Resend: Transactional email (hatırlatmalar için)
+```

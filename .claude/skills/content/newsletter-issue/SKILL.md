@@ -1,133 +1,192 @@
 ---
-description: Create a newsletter issue with structured process, quality checks, and system integration
+description: Newsletter sayısı yazma sistemi — abone tutan, açılma oranı yüksek bülten tarifi
 ---
 
-# Newsletter Issue
+# Newsletter Sayısı Yazma Tarifi
 
 ## Amaç
 
-Eyleme dönüştürülebilir, ölçülebilir sonuçlar sunan kapsamlı bir newsletter issue oluşturun. Bu beceri, her seferinde profesyonel düzeyde çıktı sağlayan, kalite doğrulamalı yapılandırılmış bir süreç sunar.
+Abonelerin her hafta dört gözle beklediği, %40+ open rate yakalayan, güven inşa eden bir newsletter sayısı üret. Solopreneur'lar için: haftada 1 saat yatırımla tutarlı bülten çıkarmak.
 
-**Kategori**: İçerik ve Metin Yazarlığı & Copywriting
+**Kategori**: İçerik ve Metin Yazarlığı
 
 ## Girdiler
 
 ### Zorunlu
-- **Hedef**: Bu çıktı ile neyi başarmak istiyorsunuz
-- **Target Audience**: Who this is for (demographics, psychographics, pain points)
+- **Konu**: Bu sayının ana konusu veya teması
+- **Hedef Kitle**: Abone profilin (solopreneur'lar, yazılımcılar, pazarlamacılar vb.)
 
 ### İsteğe Bağlı
-- **Brand Voice**: Tone and style guidelines (check knowledge-base for existing)
-- **Competitors**: Key competitors to differentiate from
+- **Format Tercihi**: Curated / Original Insight / Hybrid
+- **CTA Hedefi**: Bu sayıda okuyucuyu nereye yönlendirmek istiyorsun
 
-## Sistem Bağlamı
+## Adım 1: Format Seçimi
 
-Başlamadan önce:
-- Mevcut proje bağlamı ve öncelikleri için `memory.md`'yi oku
-- İlgili öğrenilmiş kurallar veya kısıtlamalar için `knowledge-base.md`'yi kontrol et
-- Projedeki mevcut ilgili belgeleri gözden geçir
-- Bu çıktı ile ilgili `TaskBoard.md`'deki aktif görevleri not et
+### 3 Newsletter Formatı
 
-## Süreç
+| Format | Ne İçerir | Hazırlama Süresi | En İyi Kullanım |
+|--------|----------|-----------------|-----------------|
+| **Curated** | 5-7 seçilmiş bağlantı + kısa yorumların | 30 dakika | Sektör haberleri, kaynak paylaşımı |
+| **Original Insight** | Tek konu, senin bakış açın, derinlemesine | 60-90 dakika | Otorite inşası, düşünce liderliği |
+| **Hybrid** | 1 ana içgörü + 3-4 seçilmiş bağlantı | 45-60 dakika | En popüler format, denge sağlar |
 
-### Adım 1: Bağlam ve Araştırma
-- Projedeki mevcut newsletter issue belgelerini gözden geçir
-- İlgili öğrenilmiş kurallar veya kısıtlamalar için `knowledge-base.md`'yi kontrol et
-- Mevcut proje bağlamı ve öncelikleri için `memory.md`'yi kontrol et
-- Kilit paydaşları ve gereksinimlerini belirle
-- En uygun çerçeveyi seç: AIDA for copy, PAS (Problem-Agitate-Solve), BAB (Before-After-Bridge)
+**Solopreneur tavsiyesi**: Hybrid ile başla. Hem değer sunarsın hem de her sayıyı sıfırdan yazmak zorunda kalmazsın.
 
-### Adım 2: Analiz ve Çerçeve Uygulaması
-- newsletter issue yapılandırmak için seçilen çerçeveyi uygula
-- Boşlukları, fırsatları ve riskleri belirle
-- Başarı metriklerini tanımla: Readability Score (Flesch-Kincaid 60+), Time on Page, Scroll Depth, Social Shares
-- Varsayımları ve bağımlılıkları belgele
-- Yaklaşımı sektör en iyi uygulamalarına göre doğrula
+## Adım 2: Konu Satırı (Subject Line) Formülleri
 
-### Adım 3: Çıktıyı Oluştur
-- newsletter issue aşağıdaki çıktı formatını kullanarak yapılandır
-- Genel tavsiyeler değil, spesifik ve eyleme dönüştürülebilir öneriler ekle
-- Uygulanabilir yerlerde somut rakamlar, zaman çizelgeleri ve kıyaslamalar ekle
-- Tutarlılık için mevcut proje belgeleriyle çapraz referans yap
-- Her bölümün değer kattığından emin ol — dolgu içeriği çıkar
+%40+ open rate hedefi için kanıtlanmış formüller:
 
-### Adım 4: Kalite Doğrulama
-- [ ] Tüm zorunlu girdiler ele alındı
-- [ ] Öneriler spesifik ve eyleme dönüştürülebilir (belirsiz değil)
-- [ ] Rakamlar ve kıyaslamalar gerçekçi ve kaynaklı
-- [ ] Çıktı formatı aşağıdaki spesifikasyona uyuyor
-- [ ] Bilgi tabanı kurallarıyla çelişki yok
-- [ ] En iyi pratiği izliyor: Write at 8th grade reading level for general audiences
+### Merak Açığı
+- "Bu hafta keşfettiğim şey her şeyi değiştirdi"
+- "[Konu] hakkında kimsenin söylemediği şey"
 
-## Çıktı Formatı
+### Doğrudan Fayda
+- "Haftalık 5 saat kazandıran 3 AI aracı"
+- "[Kitle] için [sayı] [fayda]"
 
-```markdown
-# Newsletter Issue
+### Kişisel Hikaye
+- "1.000₺ kaybettiğim hata (ve öğrendiğim ders)"
+- "Geçen hafta [X] yaptım. İşte sonuç:"
 
-## Yönetici Özeti
-[Çıktının ve temel önerilerin 2-3 cümlelik özeti]
+### Soru
+- "[Kitle]'nın %80'i bunu yanlış yapıyor — siz de mi?"
+- "[Spesifik sonuç] istiyor musunuz?"
 
-## Bağlam ve Hedefler
-- **Hedef**: [Bunun neyi başardığı]
-- **Hedef Kitle**: [Bunun kimin için olduğu]
-- **Zaman Çizelgesi**: [Bunun ne zaman geçerli olduğu]
+**Kurallar**:
+- 50 karakter altında tut (mobilde tam görünsün)
+- Emoji maks 1, baştaki emoji open rate'i %5-10 artırabilir
+- BÜYÜK HARF ve !!! kullanma — spam filtresi tetikler
+- Preview text'i konu satırını tamamlasın, tekrarlamasın
 
-## Analiz
-[Seçilen çerçeve kullanılarak yapılandırılmış analiz]
+## Adım 3: Bülten Yapısı
 
-## Öneriler
-1. [Beklenen etkisiyle spesifik, eyleme dönüştürülebilir öneri]
-2. [Beklenen etkisiyle spesifik, eyleme dönüştürülebilir öneri]
-3. [Beklenen etkisiyle spesifik, eyleme dönüştürülebilir öneri]
+```
+KONU SATIRI: [50 karakter altı, merak veya fayda odaklı]
+PREVIEW TEXT: [Konu satırını tamamlayan 40-90 karakter]
 
-## Uygulama
-| Eylem | Sorumlu | Zaman Çizelgesi | Öncelik |
-|--------|-------|----------|----------|
-| [Eylem maddesi] | [Kim] | [Ne zaman] | [Yüksek/Orta/Düşük] |
+---
 
-## Başarı Metrikleri
-| Metrik | Mevcut | Hedef | Ölçüm Yöntemi |
-|--------|---------|--------|-------------------|
-| [KPI] | [Başlangıç] | [Hedef] | [Nasıl ölçülür] |
+[Hook — 2 cümle maks. Okuyucuyu yakala.]
+[Bir hikaye, istatistik veya cesur iddia ile aç.]
 
-## Riskler ve Azaltmalar
-| Risk | Olasılık | Etki | Azaltma |
-|------|-----------|--------|------------|
-| [Risk] | [Y/O/D] | [Y/O/D] | [Eylem] |
+[Ana İçerik — Tek bir fikir, derinlemesine]
+[Hybrid ise: 1 ana bölüm + 3-4 kısa bağlantı]
 
-## Sonraki Adımlar
-- [ ] [Hemen yapılacak eylem]
-- [ ] [Takip eylemi]
-- [ ] [Gözden geçirme tarihi]
+[CTA — Tek bir net eylem]
+[Bağlantı, yanıt, paylaşım... sadece bir tanesi]
+
+[PS — Bonus içerik, kişisel not veya ikincil CTA]
+[PS her zaman okunur. En güçlü ikinci mesajını buraya koy.]
 ```
 
-## Uygulanabilir Çerçeveler
-- AIDA for copy
-- PAS (Problem-Agitate-Solve)
-- BAB (Before-After-Bridge)
-- Inverted Pyramid
-- Hub and Spoke content model
-- Content Atomization
-- StoryBrand
+### Kelime Sayısı Hedefleri
+| Format | Kelime | Okuma Süresi |
+|--------|--------|-------------|
+| Curated | 300-400 | 2 dakika |
+| Original Insight | 500-700 | 3-4 dakika |
+| Hybrid | 400-600 | 3 dakika |
+
+**Kural**: 700 kelimeyi geçme. Okuyucunun zamanına saygı göster. Daha çok söyleyeceklerin varsa blog yazısına yönlendir.
+
+## Adım 4: Yazım Kuralları
+
+- **"Ben" ve "siz" dili** — kurumsal değil, kişisel yaz. Bir arkadaşına e-posta yazar gibi
+- **Bir paragraf = bir fikir**, maks 2-3 cümle
+- **Kısa satırlar** — mobilde 1-2 satırı geçmesin
+- **Beyaz alan bol** — sıkıştırılmış metin okunmaz
+- İlk cümle kısa olsun (8 kelime altı ideal)
+- Her sayıda tutarlı yapı kullan — okuyucu ne beklediğini bilsin
+- Link'leri açıklayıcı metin ile ver: "Bu aracı deneyin →" şeklinde, URL yapıştırma
+
+## Adım 5: Gönderim Stratejisi
+
+### Frekans
+- **Haftalık** = solopreneur için altın standart
+- Ayda 2 kez = minimum (daha azı unutulursun)
+- Günlük = sadece senin nişin habercilik/curated ise
+
+### Gün ve Saat
+| Gün | Open Rate Trendi | Neden |
+|-----|-----------------|-------|
+| Salı | En yüksek | Pazartesi kaosu bitti, hafta ortası henüz gelmedi |
+| Perşembe | İkinci en iyi | Haftanın ikinci zirve noktası |
+| Pazar sabah | Niş kitleler için güçlü | Sakin, derin okuma zamanı |
+
+**Saat**: Sabah 09:00-10:00 (yerel saat). Öğleden sonra gönderimleri genelde %10-15 daha düşük open rate alır.
+
+## Adım 6: Büyüme Taktikleri
+
+1. **Cross-promotion**: Benzer abonelik büyüklüğündeki 3-5 newsletter ile karşılıklı tavsiye
+2. **Content upgrade**: Blog yazısına özel bonus ekle, e-posta ile gönder ("Bu yazının PDF checklist'ini almak ister misiniz?")
+3. **Referral program**: "3 arkadaşınızı davet edin, bonus [X] kazanın" — SparkLoop veya manuel
+4. **LinkedIn → Newsletter**: Her bülten sayısını LinkedIn post olarak özetle, abone bağlantısı ekle
+5. **PS virality**: "Bu sayıyı beğendiyseniz, bir arkadaşınıza iletin →"
+
+**Hedef**: Haftada 10-20 yeni abone, organik büyüme. 1.000 aboneye ulaşmak ortalama 6-12 ay sürer.
+
+## Adım 7: Kalite Kontrol
+
+- [ ] Konu satırı 50 karakter altında
+- [ ] Preview text konu satırını tekrarlamıyor
+- [ ] İlk 2 cümle merak veya fayda uyandırıyor
+- [ ] 700 kelimeyi geçmiyor
+- [ ] Tek bir net CTA var
+- [ ] PS bölümü eklendi
+- [ ] Tüm bağlantılar çalışıyor (test gönderimi yap)
+- [ ] Mobilde okunabilirlik kontrol edildi
 
 ## Temel Metrikler
-- Readability Score (Flesch-Kincaid 60+)
-- Time on Page
-- Scroll Depth
-- Social Shares
-- Backlinks Generated
-- Conversion Rate from Content
 
-## En İyi Pratikler
-- Write at 8th grade reading level for general audiences
-- One idea per paragraph, max 3 sentences
-- Front-load the value — answer the question in the first 100 words
-- Use active voice (90%+ of sentences)
-- Every piece needs a clear CTA
+| Metrik | Sağlıklı | İyi | Mükemmel |
+|--------|---------|-----|----------|
+| Open Rate | %25-30 | %35-40 | %45+ |
+| Click Rate (CTR) | %2-3 | %4-5 | %6+ |
+| Unsubscribe Rate | <%0.5 | <%0.3 | <%0.1 |
+| Reply Rate | %0.5 | %1-2 | %3+ |
+| List Growth (haftalık) | 5-10 | 15-25 | 30+ |
 
-## Tamamlandıktan Sonra
+## Örnek Çıktı
 
-- Bu çıktı proje bağlamını veya önceliklerini değiştiriyorsa `memory.md`'yi güncelle
-- Yeniden kullanılabilir öğrenmeleri `knowledge-nominations.md`'ye ekle
-- Takip eylemleri belirlendiyse bunları `TaskBoard.md`'ye ekle
-- Ek çalışma gerekiyorsa ilgili skill'leri öner
+**Format**: Hybrid
+**Konu**: "AI araçlarıyla haftalık 5 saat tasarruf"
+
+```
+KONU: AI ile haftada 5 saat kazandım — nasıl mı?
+PREVIEW TEXT: 3 araç ve tam kurulum adımları
+
+---
+
+Geçen hafta bir deney yaptım.
+
+5 gün boyunca her tekrarlayan görevimi not ettim. Toplam:
+haftalık 11 saat, tekrar eden iş. Şok oldum.
+
+Sonra 3 AI aracını devreye soktum. Sonuç: 5 saat 40 dakika geri
+kazandım. İşte tam olarak ne yaptım:
+
+## 1. E-posta yanıtları → Claude
+Müşteri e-postalarına taslak yanıt yazdırıyorum. Kendi sesimi
+öğretti, %80'i direkt gönderebilecek kalitede. Günlük tasarruf:
+45 dakika.
+
+## 2. Sosyal medya içeriği → ChatGPT + Canva AI
+Blog yazılarımı 5 farklı LinkedIn post'una çeviriyorum.
+Haftalık tasarruf: 2 saat.
+
+## 3. Toplantı notları → Otter.ai
+Her Zoom'u otomatik özetliyor. Aksiyon maddelerini çıkarıyor.
+Haftalık tasarruf: 1.5 saat.
+
+Önemli not: AI içerik üretmiyor, ben üretiyorum. AI tekrarlayan
+işleri hallediyor ki ben strateji ve müşteri ilişkilerine
+odaklanabileyim.
+
+→ Bu 3 aracın kurulum rehberini hazırladım. [Buradan indirin]
+
+PS: Bu bülteni beğendiyseniz, bir solopreneur arkadaşınıza
+iletin. Birlikte büyüyelim.
+
+---
+Her Salı sabahı, tek bir uygulanabilir solopreneur taktiği.
+[Arşiv] · [Abone ol] · [Yanıtla — okurum]
+```

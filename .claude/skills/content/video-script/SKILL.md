@@ -1,133 +1,239 @@
 ---
-description: Create a video script with structured process, quality checks, and system integration
+description: Video script yazma tarifi — platformlara özel, teleprompter'a hazır senaryo sistemi
 ---
 
-# Video Script
+# Video Script Yazma Tarifi
 
 ## Amaç
 
-Eyleme dönüştürülebilir, ölçülebilir sonuçlar sunan kapsamlı bir video script oluşturun. Bu beceri, her seferinde profesyonel düzeyde çıktı sağlayan, kalite doğrulamalı yapılandırılmış bir süreç sunar.
+İzleyiciyi ilk 3 saniyede yakalayan, değer sunan ve eyleme yönlendiren bir video scripti üret. Solopreneur'lar için: kameraya otur, oku, çek, yayınla. Minimum düzenleme gerektiren, doğal konuşma diline yakın scriptler.
 
-**Kategori**: İçerik ve Metin Yazarlığı & Copywriting
+**Kategori**: İçerik ve Metin Yazarlığı
 
 ## Girdiler
 
 ### Zorunlu
-- **Hedef**: Bu çıktı ile neyi başarmak istiyorsunuz
-- **Target Audience**: Who this is for (demographics, psychographics, pain points)
+- **Konu**: Videonun ana konusu veya mesajı
+- **Platform**: YouTube / Instagram Reels / TikTok / LinkedIn
 
 ### İsteğe Bağlı
-- **Brand Voice**: Tone and style guidelines (check knowledge-base for existing)
-- **Competitors**: Key competitors to differentiate from
+- **Hedef Süre**: Videonun hedef uzunluğu
+- **CTA Hedefi**: İzleyiciyi nereye yönlendirmek istiyorsun
 
-## Sistem Bağlamı
+## Adım 1: Platform ve Süre Belirleme
 
-Başlamadan önce:
-- Mevcut proje bağlamı ve öncelikleri için `memory.md`'yi oku
-- İlgili öğrenilmiş kurallar veya kısıtlamalar için `knowledge-base.md`'yi kontrol et
-- Projedeki mevcut ilgili belgeleri gözden geçir
-- Bu çıktı ile ilgili `TaskBoard.md`'deki aktif görevleri not et
+| Platform | İdeal Süre | Tempo | Ton |
+|----------|-----------|-------|-----|
+| YouTube | 8-15 dakika | Sakin, derinlemesine | Eğitici, güvenilir |
+| Instagram Reels | 30-60 saniye | Hızlı, enerjik | Kısa, vurucu |
+| TikTok | 30-60 saniye | Çok hızlı, keskin | Samimi, trend odaklı |
+| LinkedIn | 1-3 dakika | Profesyonel, net | İçgörü odaklı |
 
-## Süreç
+### Kelime / Süre Hesaplama
+- Ortalama konuşma hızı: dakikada 150 kelime
+- 60 saniyelik video = ~150 kelime
+- 3 dakikalık video = ~450 kelime
+- 10 dakikalık video = ~1.500 kelime
 
-### Adım 1: Bağlam ve Araştırma
-- Projedeki mevcut video script belgelerini gözden geçir
-- İlgili öğrenilmiş kurallar veya kısıtlamalar için `knowledge-base.md`'yi kontrol et
-- Mevcut proje bağlamı ve öncelikleri için `memory.md`'yi kontrol et
-- Kilit paydaşları ve gereksinimlerini belirle
-- En uygun çerçeveyi seç: AIDA for copy, PAS (Problem-Agitate-Solve), BAB (Before-After-Bridge)
+## Adım 2: HCVC Yapısı (Hook → Context → Value → CTA)
 
-### Adım 2: Analiz ve Çerçeve Uygulaması
-- video script yapılandırmak için seçilen çerçeveyi uygula
-- Boşlukları, fırsatları ve riskleri belirle
-- Başarı metriklerini tanımla: Readability Score (Flesch-Kincaid 60+), Time on Page, Scroll Depth, Social Shares
-- Varsayımları ve bağımlılıkları belgele
-- Yaklaşımı sektör en iyi uygulamalarına göre doğrula
+Her video, platformdan bağımsız olarak bu 4 bölümden oluşur:
 
-### Adım 3: Çıktıyı Oluştur
-- video script aşağıdaki çıktı formatını kullanarak yapılandır
-- Genel tavsiyeler değil, spesifik ve eyleme dönüştürülebilir öneriler ekle
-- Uygulanabilir yerlerde somut rakamlar, zaman çizelgeleri ve kıyaslamalar ekle
-- Tutarlılık için mevcut proje belgeleriyle çapraz referans yap
-- Her bölümün değer kattığından emin ol — dolgu içeriği çıkar
+### Hook (İlk 3 Saniye) — Videonun %80'ini Belirler
 
-### Adım 4: Kalite Doğrulama
-- [ ] Tüm zorunlu girdiler ele alındı
-- [ ] Öneriler spesifik ve eyleme dönüştürülebilir (belirsiz değil)
-- [ ] Rakamlar ve kıyaslamalar gerçekçi ve kaynaklı
-- [ ] Çıktı formatı aşağıdaki spesifikasyona uyuyor
-- [ ] Bilgi tabanı kurallarıyla çelişki yok
-- [ ] En iyi pratiği izliyor: Write at 8th grade reading level for general audiences
+**Hook formülleri**:
+- **Cesur iddia**: "Solopreneur'ların %90'ı bu hatayı yapıyor."
+- **Soru**: "Neden hâlâ günde 3 saat e-posta yazıyorsun?"
+- **Şok istatistik**: "Müşterilerin %67'si ilk 5 saniyede karar veriyor."
+- **Karşıt görüş**: "Sosyal medya stratejisi diye bir şeye ihtiyacın yok."
+- **Merak açığı**: "Bu tek değişiklik aylık gelirimi 2 katına çıkardı."
+- **Doğrudan hitap**: "Eğer solopreneur'san ve yorgunsan, bu video tam sana."
 
-## Çıktı Formatı
+**Kural**: Hook'ta değer vaat et ama teslim etme. Teslim Value bölümünde olacak.
 
-```markdown
-# Video Script
+### Context (Bağlam — %15 süre)
+- Neden bu konu önemli? Kısa bağlam ver
+- Kendi deneyiminle bağla (credibility)
+- "3 aydır test ediyorum" > "araştırmalar gösteriyor"
 
-## Yönetici Özeti
-[Çıktının ve temel önerilerin 2-3 cümlelik özeti]
+### Value (Değer — %70 süre)
+- Asıl içerik burada
+- Her maddeyi: İddia → Kanıt → Uygulama sırasıyla sun
+- Numaralı listeler izleyiciyi tutar ("İkinci madde...")
 
-## Bağlam ve Hedefler
-- **Hedef**: [Bunun neyi başardığı]
-- **Hedef Kitle**: [Bunun kimin için olduğu]
-- **Zaman Çizelgesi**: [Bunun ne zaman geçerli olduğu]
+### CTA (Eylem Çağrısı — Son %15)
+- Tek bir net eylem
+- "Beğen ve abone ol" yerine spesifik ol: "Yorumlara en büyük zaman kaybınızı yazın"
+- CTA'yı videonun içeriğiyle ilişkilendir
 
-## Analiz
-[Seçilen çerçeve kullanılarak yapılandırılmış analiz]
+## Adım 3: Script Format Şablonu
 
-## Öneriler
-1. [Beklenen etkisiyle spesifik, eyleme dönüştürülebilir öneri]
-2. [Beklenen etkisiyle spesifik, eyleme dönüştürülebilir öneri]
-3. [Beklenen etkisiyle spesifik, eyleme dönüştürülebilir öneri]
+Teleprompter ve düzenleme için hazır format:
 
-## Uygulama
-| Eylem | Sorumlu | Zaman Çizelgesi | Öncelik |
-|--------|-------|----------|----------|
-| [Eylem maddesi] | [Kim] | [Ne zaman] | [Yüksek/Orta/Düşük] |
+```
+[HOOK — İlk 3 saniye]
+(Kameraya doğrudan bak, enerji yüksek)
+"Tek cümlelik hook buraya."
 
-## Başarı Metrikleri
-| Metrik | Mevcut | Hedef | Ölçüm Yöntemi |
-|--------|---------|--------|-------------------|
-| [KPI] | [Başlangıç] | [Hedef] | [Nasıl ölçülür] |
+---
 
-## Riskler ve Azaltmalar
-| Risk | Olasılık | Etki | Azaltma |
-|------|-----------|--------|------------|
-| [Risk] | [Y/O/D] | [Y/O/D] | [Eylem] |
+[CONTEXT — 15-30 saniye]
+(B-ROLL: Laptop ekranı / çalışma masası)
+"Bağlam cümlesi 1."
+"Bağlam cümlesi 2."
 
-## Sonraki Adımlar
-- [ ] [Hemen yapılacak eylem]
-- [ ] [Takip eylemi]
-- [ ] [Gözden geçirme tarihi]
+---
+
+[VALUE — Ana içerik]
+
+MADDE 1: [Alt başlık]
+(B-ROLL: Ekran kaydı / ilgili görsel)
+"Kısa cümle."
+"Kısa cümle."
+"Örnek veya rakam."
+
+MADDE 2: [Alt başlık]
+(KAMERA: Yüze dön)
+"Kısa cümle."
+"Kısa cümle."
+
+MADDE 3: [Alt başlık]
+(B-ROLL: Araç ekranı / demo)
+"Kısa cümle."
+"Kısa cümle."
+
+---
+
+[CTA — Son 10-15 saniye]
+(Kameraya doğrudan bak)
+"Tek cümlelik CTA."
+"Kapanış cümlesi."
+
+---
+
+[METAVERİ]
+Başlık: [SEO uyumlu, 60 karakter altı]
+Açıklama: [İlk 2 satır — anahtar kelime + değer vaadi]
+Etiketler: [5-8 ilgili tag]
+Thumbnail metin: [3-5 kelime, büyük punto, kontrast]
 ```
 
-## Uygulanabilir Çerçeveler
-- AIDA for copy
-- PAS (Problem-Agitate-Solve)
-- BAB (Before-After-Bridge)
-- Inverted Pyramid
-- Hub and Spoke content model
-- Content Atomization
-- StoryBrand
+## Adım 4: Teleprompter Yazım Kuralları
+
+- **Kısa cümleler**: Maks 12-15 kelime. Nefes almaya izin ver
+- **Doğal konuşma dili**: "Kullanabilirsiniz" yerine "Kullanabilirsin"
+- **Vurgu işaretleri**: ÖNEMLİ kelimeleri büyük yaz (teleprompter'da göze çarpar)
+- **Duraklama notları**: `[DURAKLA]` veya `[NEFES]` ekle
+- **Zor kelimelerden kaçın**: Yazıda güzel duran ama söylemesi zor kelimeler çıkar
+- **Sesli oku testi**: Yazdıktan sonra sesli oku. Takılıyorsan, sadeleştir
+
+## Adım 5: B-Roll ve Görsel Notları
+
+Script içinde bu annotasyonları kullan:
+
+| Annotation | Anlamı |
+|-----------|---------|
+| `(KAMERA)` | Yüze dön, doğrudan konuş |
+| `(B-ROLL: [açıklama])` | Üst görsel/video ekle |
+| `(EKRAN KAYDI: [uygulama])` | Ekran kaydı göster |
+| `(METİN EKRANI: "[metin]")` | Ekranda metin göster |
+| `(GEÇİŞ)` | Sahne değişimi / kesme |
+| `(ZOOM)` | Yüze yakınlaş (vurgu için) |
+| `(DURAKLA)` | 1-2 saniyelik sessizlik |
+
+## Adım 6: Platforma Özel İpuçları
+
+### YouTube (8-15 dk)
+- İlk 30 saniyede videonun özetini ver (retention artırır)
+- Her 2-3 dakikada "pattern interrupt" — B-Roll, grafik, kamera açısı değişimi
+- Chapter marker'lar için zaman damgaları ekle
+- End screen CTA: 20 saniye, ilgili video önerisi
+
+### Instagram Reels / TikTok (30-60 sn)
+- Hook İLK KARE'de — scroll durdurmalı
+- Altyazı zorunlu (sesin kapalı olduğunu varsay)
+- Trend sesleri kullan (TikTok'ta keşfet avantajı)
+- Son kare: CTA + takip et mesajı
+- Dikey format (9:16), yüz kadrajda
+
+### LinkedIn (1-3 dk)
+- Profesyonel ama insani ton
+- Veri ve içgörü odaklı
+- İlk cümle metin olarak da çalışmalı (post açıklaması)
+- CTA: "Yorumda düşüncenizi paylaşın" (algoritma ödüllendiriyor)
+
+## Adım 7: Kalite Kontrol
+
+- [ ] İlk 3 saniye hook güçlü mü (sesli oku testi)
+- [ ] Her cümle maks 15 kelime
+- [ ] B-Roll notları eklendi
+- [ ] Platform süre hedefine uyuyor
+- [ ] CTA net ve tek bir eyleme yönlendiriyor
+- [ ] Sesli okununca doğal geliyor
+- [ ] Thumbnail metin 3-5 kelime, okunabilir
 
 ## Temel Metrikler
-- Readability Score (Flesch-Kincaid 60+)
-- Time on Page
-- Scroll Depth
-- Social Shares
-- Backlinks Generated
-- Conversion Rate from Content
 
-## En İyi Pratikler
-- Write at 8th grade reading level for general audiences
-- One idea per paragraph, max 3 sentences
-- Front-load the value — answer the question in the first 100 words
-- Use active voice (90%+ of sentences)
-- Every piece needs a clear CTA
+| Metrik | Hedef (YouTube) | Hedef (Reels/TikTok) |
+|--------|----------------|---------------------|
+| Hook Retention | İlk 30 sn: %70+ | İlk 3 sn: %80+ |
+| Average View Duration | Sürenin %50'si+ | Sürenin %70'i+ |
+| CTR (Thumbnail) | %5-10 | N/A |
+| Engagement Rate | %5+ (beğeni+yorum) | %8+ |
+| Subscriber/Follower dönüşüm | %2-4 | %1-2 |
 
-## Tamamlandıktan Sonra
+## Örnek Çıktı
 
-- Bu çıktı proje bağlamını veya önceliklerini değiştiriyorsa `memory.md`'yi güncelle
-- Yeniden kullanılabilir öğrenmeleri `knowledge-nominations.md`'ye ekle
-- Takip eylemleri belirlendiyse bunları `TaskBoard.md`'ye ekle
-- Ek çalışma gerekiyorsa ilgili skill'leri öner
+**Platform**: Instagram Reels
+**Süre**: 60 saniye (~150 kelime)
+**Konu**: "Solopreneur'ların en büyük zaman kaybı"
+
+```
+[HOOK — 0:00-0:03]
+(KAMERA — yakın çekim, enerjik)
+"Solopreneur olarak EN BÜYÜK zaman kaybın ne biliyor musun?"
+
+[METİN EKRANI: "🕐 En büyük zaman kaybı"]
+
+---
+
+[CONTEXT — 0:03-0:10]
+(B-ROLL: Dolu e-posta kutusu, bildirimler)
+"Her şeyi kendin yapmaya çalışmak değil."
+"Neyi OTOMATİZE edeceğine karar verememek."
+
+---
+
+[VALUE — 0:10-0:45]
+
+(KAMERA)
+"3 aydır takip ediyorum. İşte en çok zaman yiyen 3 şey:"
+
+(METİN EKRANI: "1. Manuel e-posta takibi")
+"Bir: Her müşteriye tek tek takip e-postası yazmak."
+"Çözüm: 3 e-postalık otomatik dizi kur. Bir kere yaz, sonsuza kadar çalışsın."
+
+(METİN EKRANI: "2. Sosyal medya planlama")
+"İki: Her gün ne paylaşacağını düşünmek."
+"Çözüm: Ayda bir otur, 30 içerik planla, Buffer ile zamana."
+
+(METİN EKRANI: "3. Teklif hazırlama")
+"Üç: Her müşteriye sıfırdan teklif yazmak."
+"Çözüm: 3 teklif şablonu hazırla, sadece özelleştir."
+
+---
+
+[CTA — 0:45-0:60]
+(KAMERA — yakın, samimi)
+"Bu 3 şeyi otomatize edersen haftada EN AZ 5 saat kazanırsın."
+[DURAKLA]
+"SENİN en büyük zaman kaybın ne? Yoruma yaz."
+
+(METİN EKRANI: "⬇️ Yoruma yaz")
+```
+
+**Metaveri**:
+- Başlık: Solopreneur'ların #1 Zaman Kaybı
+- Açıklama: 3 şeyi otomatize et, haftada 5 saat kazan. #solopreneur #verimlilik #otomasyon
+- Etiketler: solopreneur, zaman yönetimi, otomasyon, verimlilik, iş ipuçları
+- Thumbnail: "5 SAAT KAYIP" (kırmızı arka plan, şaşkın yüz)

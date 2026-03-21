@@ -1,133 +1,157 @@
 ---
-description: Design and document a daily planning with structured process, quality checks, and system integration
+description: Solopreneurler için 10 dakikalık sabah planlama sistemi ve gün kapanış ritüeli
 ---
 
-# Daily Planning
+# Günlük Planlama — Solopreneur Sistemi
 
 ## Amaç
 
-Eyleme dönüştürülebilir, ölçülebilir sonuçlar sunan kapsamlı bir daily planning tasarlayın ve belgeleyin. Bu beceri, her seferinde profesyonel düzeyde çıktı sağlayan, kalite doğrulamalı yapılandırılmış bir süreç sunar.
+Her sabah 10 dakikada günü kur, akşam 5 dakikada kapat. Solopreneur olarak sana kimse ne yapacağını söylemez — bu hem özgürlük hem risk. Bu sistem, her günü bilinçli yaşamanı ve en değerli işlere odaklanmanı sağlar.
 
 **Kategori**: Kişisel Verimlilik
+**Süre**: Sabah 10 dk + akşam 5 dk
+**Ne zaman**: Her iş günü, ilk ve son iş
 
-## Girdiler
+## Sabah Ritüeli (10 Dakika)
 
-### Zorunlu
-- **Hedef**: Bu çıktı ile neyi başarmak istiyorsunuz
-- **Bağlam**: İlgili arka plan bilgileri
+### Adım 1: Dünü Tara (2 dk)
 
-### İsteğe Bağlı
-- **Kısıtlamalar**: Dikkate alınması gereken sınırlamalar veya gereksinimler
-- **Mevcut Çalışma**: Üzerine inşa edilecek önceki belgeler veya veriler
+Dünün Task Board'unu aç. Üç şeye bak:
+- **Tamamlanan**: Aferin. Devam et.
+- **Yarım kalan**: Bugün bitirecek misin yoksa iptal mi? Karar ver, ortada bırakma.
+- **Bugüne taşınan**: Bu iş gerçekten önemli mi, yoksa sadece listede kaldığı için mi yapıyorsun?
 
-## Sistem Bağlamı
+### Adım 2: MIT Belirle — 1-2-3 Kuralı (3 dk)
 
-Başlamadan önce:
-- Mevcut proje bağlamı ve öncelikleri için `memory.md`'yi oku
-- İlgili öğrenilmiş kurallar veya kısıtlamalar için `knowledge-base.md`'yi kontrol et
-- Projedeki mevcut ilgili belgeleri gözden geçir
-- Bu çıktı ile ilgili `TaskBoard.md`'deki aktif görevleri not et
+Her gün tam olarak 6 iş planla, fazla değil:
 
-## Süreç
+| Öncelik | Açıklama | Kural |
+|---------|----------|-------|
+| **1 Must-do** | Bugün kesinlikle bitmeli. Gün bununla değerlendirilir. | Gelir getirici veya gelir koruyucu olmalı |
+| **2 Should-do** | Önemli ama yarına kalsa dünya yıkılmaz | İş geliştirme veya sistem kurma |
+| **3 Could-do** | Zaman kalırsa yapılır, kalmazsa sorun yok | Admin, iyileştirme, öğrenme |
 
-### Adım 1: Bağlam ve Araştırma
-- Projedeki mevcut daily planning belgelerini gözden geçir
-- İlgili öğrenilmiş kurallar veya kısıtlamalar için `knowledge-base.md`'yi kontrol et
-- Mevcut proje bağlamı ve öncelikleri için `memory.md`'yi kontrol et
-- Kilit paydaşları ve gereksinimlerini belirle
-- En uygun çerçeveyi seç: Getting Things Done (GTD), Eisenhower Matrix, Pomodoro Technique
+**Neden 6?** Araştırmalar gösteriyor: insanlar günde ortalama 3-5 anlamlı iş tamamlayabiliyor. 6 sana tampon veriyor, 10 seni eziyor.
 
-### Adım 2: Analiz ve Çerçeve Uygulaması
-- daily planning yapılandırmak için seçilen çerçeveyi uygula
-- Boşlukları, fırsatları ve riskleri belirle
-- Başarı metriklerini tanımla: Tasks Completed, Deep Work Hours, Meeting Load (%), Goal Progress
-- Varsayımları ve bağımlılıkları belgele
-- Yaklaşımı sektör en iyi uygulamalarına göre doğrula
+**Kritik kural**: Must-do'yu yazmadan e-posta, Slack veya sosyal medya açma. Sabahın ilk kararı senin olmalı, başkasının inbox'ının değil.
 
-### Adım 3: Çıktıyı Oluştur
-- daily planning aşağıdaki çıktı formatını kullanarak yapılandır
-- Genel tavsiyeler değil, spesifik ve eyleme dönüştürülebilir öneriler ekle
-- Uygulanabilir yerlerde somut rakamlar, zaman çizelgeleri ve kıyaslamalar ekle
-- Tutarlılık için mevcut proje belgeleriyle çapraz referans yap
-- Her bölümün değer kattığından emin ol — dolgu içeriği çıkar
+### Adım 3: Time Blocking — Günü Blokla (5 dk)
 
-### Adım 4: Kalite Doğrulama
-- [ ] Tüm zorunlu girdiler ele alındı
-- [ ] Öneriler spesifik ve eyleme dönüştürülebilir (belirsiz değil)
-- [ ] Rakamlar ve kıyaslamalar gerçekçi ve kaynaklı
-- [ ] Çıktı formatı aşağıdaki spesifikasyona uyuyor
-- [ ] Bilgi tabanı kurallarıyla çelişki yok
-- [ ] En iyi pratiği izliyor: Most important task first, before email
+Solopreneur'ün takvimi iki modda çalışır:
 
-## Çıktı Formatı
+**Maker Schedule (sabah)**: Üretim zamanı. Derin iş. Kesintisiz.
+- 2-3 blok x 90 dakika = günün en değerli saatleri
+- Telefon sessizde, bildirimler kapalı, e-posta kapalı
+- Her bloğun tek bir odağı var — multitasking yasak
 
-```markdown
-# Daily Planning
+**Manager Schedule (öğleden sonra)**: İletişim, toplantı, admin.
+- E-posta ve mesajlar burada cevaplanır
+- Toplantılar burada yapılır
+- Fatura, muhasebe, operasyonel işler burada
 
-## Yönetici Özeti
-[Çıktının ve temel önerilerin 2-3 cümlelik özeti]
+**Neden bu sıra?** Bilimsel gerçek: prefrontal korteks sabah en güçlü. Karar verme kapasiten günün ilerleyen saatlerinde %40 düşer (decision fatigue). En zor işi sabah yap.
 
-## Bağlam ve Hedefler
-- **Hedef**: [Bunun neyi başardığı]
-- **Hedef Kitle**: [Bunun kimin için olduğu]
-- **Zaman Çizelgesi**: [Bunun ne zaman geçerli olduğu]
+### Toplantısız Sabahlar Kuralı
 
-## Analiz
-[Seçilen çerçeve kullanılarak yapılandırılmış analiz]
+Sabah 09:00-12:00 arası toplantı koymayı reddet. Bu senin üretim pencerendir. Müşterilerine öğleden sonra slot'lar sun. Bunu yapan solopreneurler Deep Work Hours metriğini haftada 8-10 saatten 15-20 saate çıkarıyor.
 
-## Öneriler
-1. [Beklenen etkisiyle spesifik, eyleme dönüştürülebilir öneri]
-2. [Beklenen etkisiyle spesifik, eyleme dönüştürülebilir öneri]
-3. [Beklenen etkisiyle spesifik, eyleme dönüştürülebilir öneri]
+İstisna: Yalnızca gelir doğrudan bağlı olan müşteri toplantıları (satış, kickoff) sabah olabilir — haftada en fazla 2.
 
-## Uygulama
-| Eylem | Sorumlu | Zaman Çizelgesi | Öncelik |
-|--------|-------|----------|----------|
-| [Eylem maddesi] | [Kim] | [Ne zaman] | [Yüksek/Orta/Düşük] |
+## Context Switching Vergisi
 
-## Başarı Metrikleri
-| Metrik | Mevcut | Hedef | Ölçüm Yöntemi |
-|--------|---------|--------|-------------------|
-| [KPI] | [Başlangıç] | [Hedef] | [Nasıl ölçülür] |
+Her görev değişikliği ortalama 23 dakika odaklanma kaybına neden olur (UC Irvine araştırması). Günde 5 kez geçiş yaparsan ~2 saat kaybedersin.
 
-## Riskler ve Azaltmalar
-| Risk | Olasılık | Etki | Azaltma |
-|------|-----------|--------|------------|
-| [Risk] | [Y/O/D] | [Y/O/D] | [Eylem] |
+**Çözüm — Batch Processing**:
+- **E-posta**: Günde 2 kez kontrol et (12:00 ve 16:00). Sürekli değil.
+- **Sosyal medya**: Tek blokta yap (örn. 14:00-14:30). Gün içinde açma.
+- **Mesajlar (Slack/WhatsApp)**: Öğleden sonra cevapla, acil değilse.
+- **Telefon**: Geri arama saati belirle, her çalışı anında cevaplama.
 
-## Sonraki Adımlar
-- [ ] [Hemen yapılacak eylem]
-- [ ] [Takip eylemi]
-- [ ] [Gözden geçirme tarihi]
+## Gün Kapanış Ritüeli (5 Dakika)
+
+Her iş gününün sonunda, bilgisayarı kapatmadan önce:
+
+1. **Task Board güncelle**: Tamamlananları işaretle, yarım kalanları not et
+2. **Loose threads yakala**: Aklına gelen ama yapamadığın şeyleri Scratchpad'e yaz (30 saniye yeter)
+3. **Yarının MIT'ini belirle**: Yarın sabah düşünmeden başlayabilmen için Must-do'yu şimdi seç
+4. **Shutdown phrase**: Sesli olarak "gün bitti" de veya defteri kapat — bu beynine iş modundan çıkma sinyali verir (Zeigarnik etkisini keser)
+
+**Neden önemli?** Shutdown ritüeli olmadan beyin arka planda çalışmaya devam eder. Bu uyku kalitesini ve ertesi gün performansını düşürür.
+
+## Günlük Şablon
+
+```
+Tarih: ____/____/____
+
+## Must-do (1)
+- [ ] _________________________________
+
+## Should-do (2)
+- [ ] _________________________________
+- [ ] _________________________________
+
+## Could-do (3)
+- [ ] _________________________________
+- [ ] _________________________________
+- [ ] _________________________________
+
+## Zaman Blokları
+| Saat | Blok | İş |
+|------|------|----|
+| 09:00-10:30 | Deep Work 1 | _____________ |
+| 10:45-12:15 | Deep Work 2 | _____________ |
+| 12:15-13:00 | Öğle arası | — |
+| 13:00-14:30 | Deep Work 3 | _____________ |
+| 14:30-15:00 | E-posta + Mesaj | batch |
+| 15:00-16:00 | Toplantı/İletişim | _____________ |
+| 16:00-16:30 | Admin | _____________ |
+| 16:30-17:00 | Kapanış ritüeli | güncelle + yarını planla |
+
+## Kapanış (5 dk)
+- [ ] Task Board güncellendi
+- [ ] Loose threads yakalandı
+- [ ] Yarının MIT'i belirlendi
+- [ ] Shutdown phrase söylendi
 ```
 
-## Uygulanabilir Çerçeveler
-- Getting Things Done (GTD)
-- Eisenhower Matrix
-- Pomodoro Technique
-- Time Blocking
-- Weekly Review
-- SMART Goals
-- Deep Work
+## Örnek Çıktı
 
-## Temel Metrikler
-- Tasks Completed
-- Deep Work Hours
-- Meeting Load (%)
-- Goal Progress
-- Energy Level
-- Decision Quality
+Aşağıda bir SaaS solopreneur'ünün (tek kişilik proje yönetim aracı geliştiren) tamamlanmış günlük planı:
 
-## En İyi Pratikler
-- Most important task first, before email
-- Batch similar tasks together
-- 2-minute rule: if it takes less, do it now
-- Calendar audit monthly — eliminate 20% of meetings
-- Weekly review on Friday, weekly plan on Sunday/Monday
+```markdown
+Tarih: 21/03/2026
 
-## Tamamlandıktan Sonra
+## Must-do (1)
+- [x] Stripe entegrasyonu tamamla — ödeme akışının çalışması bu hafta #1 öncelik
 
-- Bu çıktı proje bağlamını veya önceliklerini değiştiriyorsa `memory.md`'yi güncelle
-- Yeniden kullanılabilir öğrenmeleri `knowledge-nominations.md`'ye ekle
-- Takip eylemleri belirlendiyse bunları `TaskBoard.md`'ye ekle
-- Ek çalışma gerekiyorsa ilgili skill'leri öner
+## Should-do (2)
+- [x] Landing page A/B test sonuçlarını analiz et — dönüşüm oranı karar noktasında
+- [ ] 3 müşteri adayına demo maili gönder (yarına taşındı — Stripe beklenenden uzun sürdü)
+
+## Could-do (3)
+- [x] Onboarding e-posta serisinin 2. mailini yaz
+- [ ] Blog yazısı taslağı: "Solopreneurler için Proje Yönetimi" (iptal — bu hafta değil)
+- [x] Intercom chatbot akışını güncelle
+
+## Zaman Blokları
+| Saat | Blok | İş |
+|------|------|----|
+| 09:00-10:30 | Deep Work 1 | Stripe webhook entegrasyonu — test ortamında çalıştır |
+| 10:45-12:15 | Deep Work 2 | Stripe production deployment + smoke test |
+| 12:15-13:00 | Öğle arası | — |
+| 13:00-14:30 | Deep Work 3 | A/B test analizi + onboarding mail yazımı |
+| 14:30-15:00 | E-posta + Mesaj | 12 mail cevapla, 3 destek talebi kapat |
+| 15:00-16:00 | Toplantı | Potansiyel müşteri demo (Zoom) |
+| 16:00-16:30 | Admin | Intercom chatbot güncelleme + fatura kontrolü |
+| 16:30-17:00 | Kapanış | Task board güncelle, yarının MIT: demo follow-up mailleri |
+
+## Kapanış
+- [x] Task Board güncellendi
+- [x] Loose threads: "Stripe webhook retry logic'i gözden geçir" → Scratchpad'e eklendi
+- [x] Yarının MIT'i: 3 demo follow-up maili gönder (pipeline'daki ₺12.000 MRR potansiyeli)
+- [x] Shutdown phrase: "Gün bitti."
+
+## Gün Sonu Notu
+Deep Work toplam: 4.5 saat (hedef: 4+ saat — tutturdum). Stripe entegrasyonu
+beklenenden 45 dk uzun sürdü ama production'da çalışıyor. Yarın satış odaklı gün.
+```

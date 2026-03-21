@@ -1,133 +1,143 @@
 ---
-description: Analyze and produce a weekly review with structured process, quality checks, and system integration
+description: Solopreneurler için 30 dakikalık Cuma haftalık değerlendirme ritüeli
 ---
 
-# Weekly Review
+# Haftalık Değerlendirme — Solopreneur Ritüeli
 
 ## Amaç
 
-Eyleme dönüştürülebilir, ölçülebilir sonuçlar sunan kapsamlı bir weekly review analiz edin ve üretin. Bu beceri, her seferinde profesyonel düzeyde çıktı sağlayan, kalite doğrulamalı yapılandırılmış bir süreç sunar.
+Her Cuma 30 dakikada haftayı kapat, dersleri çıkar, gelecek haftayı kur. Kurumsal değil — tek kişilik işini büyüten biri için tasarlandı. Bu ritüeli atlayan solopreneurler aynı hataları tekrarlar ve öncelik kayması yaşar.
 
 **Kategori**: Kişisel Verimlilik
+**Süre**: 30 dakika (zamanlayıcı kur, aşma)
+**Ne zaman**: Her Cuma, son iş saatinde
+**Nerede**: Sessiz bir ortam, telefon kapalı
 
-## Girdiler
+## Ritüel Akışı
 
-### Zorunlu
-- **Hedef**: Bu çıktı ile neyi başarmak istiyorsunuz
-- **Bağlam**: İlgili arka plan bilgileri
+### Dakika 0-5: Beş Soru (Dürüst Cevapla)
 
-### İsteğe Bağlı
-- **Kısıtlamalar**: Dikkate alınması gereken sınırlamalar veya gereksinimler
-- **Mevcut Çalışma**: Üzerine inşa edilecek önceki belgeler veya veriler
+Bu soruları not defterine veya dijital belgeye yaz. Kısa ve net cevaplar yeterli.
 
-## Sistem Bağlamı
+**1. Bu hafta en önemli 3 sonuç ne oldu?**
+Yapılan iş değil, üretilen sonuç. "10 müşteri maili attım" değil, "2 yeni müşteri teklif aşamasına geçti."
 
-Başlamadan önce:
-- Mevcut proje bağlamı ve öncelikleri için `memory.md`'yi oku
-- İlgili öğrenilmiş kurallar veya kısıtlamalar için `knowledge-base.md`'yi kontrol et
-- Projedeki mevcut ilgili belgeleri gözden geçir
-- Bu çıktı ile ilgili `TaskBoard.md`'deki aktif görevleri not et
+**2. Neyi yarım bıraktım ve neden?**
+Yarım kalan iş = gelecek haftanın borcu. Nedeni anlamadan planlamak işe yaramaz. Üç neden kategorisi: zaman yetmedi, motivasyon düştü, bağımlılık vardı (başkasını bekliyordum).
 
-## Süreç
+**3. Hangi işler gereksizdi (yapmamalıydım)?**
+Solopreneurün en büyük tuzağı: her şeyi kendisi yapmak. Bu hafta hangi iş seni asıl hedefe yaklaştırmadı? Sosyal medyada 2 saat mükemmel görsel hazırlamak mı? Gereksiz bir toplantıya katılmak mı?
 
-### Adım 1: Bağlam ve Araştırma
-- Projedeki mevcut weekly review belgelerini gözden geçir
-- İlgili öğrenilmiş kurallar veya kısıtlamalar için `knowledge-base.md`'yi kontrol et
-- Mevcut proje bağlamı ve öncelikleri için `memory.md`'yi kontrol et
-- Kilit paydaşları ve gereksinimlerini belirle
-- En uygun çerçeveyi seç: Getting Things Done (GTD), Eisenhower Matrix, Pomodoro Technique
+**4. Gelecek haftanın 1 numaralı önceliği ne?**
+Tek bir cümle. "Eğer gelecek hafta sadece bir şey yapabilseydim, bu ne olurdu?" Bu senin North Star Metric'in o hafta için.
 
-### Adım 2: Analiz ve Çerçeve Uygulaması
-- weekly review yapılandırmak için seçilen çerçeveyi uygula
-- Boşlukları, fırsatları ve riskleri belirle
-- Başarı metriklerini tanımla: Tasks Completed, Deep Work Hours, Meeting Load (%), Goal Progress
-- Varsayımları ve bağımlılıkları belgele
-- Yaklaşımı sektör en iyi uygulamalarına göre doğrula
+**5. Neyi otomatikleştirebilir veya devredebilirim?**
+Her hafta en az 1 şeyi listele. Fatura kesme, sosyal medya planlama, e-posta şablonları, müşteri onboarding. Yapamasan bile yazmak farkındalık yaratır.
 
-### Adım 3: Çıktıyı Oluştur
-- weekly review aşağıdaki çıktı formatını kullanarak yapılandır
-- Genel tavsiyeler değil, spesifik ve eyleme dönüştürülebilir öneriler ekle
-- Uygulanabilir yerlerde somut rakamlar, zaman çizelgeleri ve kıyaslamalar ekle
-- Tutarlılık için mevcut proje belgeleriyle çapraz referans yap
-- Her bölümün değer kattığından emin ol — dolgu içeriği çıkar
+### Dakika 5-12: Metrik Kontrolü
 
-### Adım 4: Kalite Doğrulama
-- [ ] Tüm zorunlu girdiler ele alındı
-- [ ] Öneriler spesifik ve eyleme dönüştürülebilir (belirsiz değil)
-- [ ] Rakamlar ve kıyaslamalar gerçekçi ve kaynaklı
-- [ ] Çıktı formatı aşağıdaki spesifikasyona uyuyor
-- [ ] Bilgi tabanı kurallarıyla çelişki yok
-- [ ] En iyi pratiği izliyor: Most important task first, before email
+Dashboard'unu aç ve bu 4 rakamı yaz:
 
-## Çıktı Formatı
+| Metrik | Bu Hafta | Geçen Hafta | Trend |
+|--------|----------|-------------|-------|
+| Revenue (gelir) | ₺_____ | ₺_____ | yukarı/aşağı/sabit |
+| Traffic (site ziyareti) | _____ | _____ | yukarı/aşağı/sabit |
+| Email Subscribers (yeni abone) | _____ | _____ | yukarı/aşağı/sabit |
+| Pipeline (açık teklif/fırsat) | _____ | _____ | yukarı/aşağı/sabit |
 
-```markdown
-# Weekly Review
+**Kural**: Rakamları bilmiyorsan, bu haftanın 1 numaralı görevi tracking kurmaktır. Ölçmediğin şeyi yönetemezsin.
 
-## Yönetici Özeti
-[Çıktının ve temel önerilerin 2-3 cümlelik özeti]
+**Kıyaslama (benchmark)**: Sağlıklı bir solopreneur işletme aydan aya %5-10 büyür. Üst üste 3 hafta düşüş varsa alarm: bir şey kırık.
 
-## Bağlam ve Hedefler
-- **Hedef**: [Bunun neyi başardığı]
-- **Hedef Kitle**: [Bunun kimin için olduğu]
-- **Zaman Çizelgesi**: [Bunun ne zaman geçerli olduğu]
+### Dakika 12-17: Kazanımlar Günlüğü (Wins Journal)
 
-## Analiz
-[Seçilen çerçeve kullanılarak yapılandırılmış analiz]
+3 kazanım yaz. Küçük olsun, büyük olsun farketmez. Bu alışkanlık, imposter syndrome ile savaşır ve motivasyonu korur.
 
-## Öneriler
-1. [Beklenen etkisiyle spesifik, eyleme dönüştürülebilir öneri]
-2. [Beklenen etkisiyle spesifik, eyleme dönüştürülebilir öneri]
-3. [Beklenen etkisiyle spesifik, eyleme dönüştürülebilir öneri]
-
-## Uygulama
-| Eylem | Sorumlu | Zaman Çizelgesi | Öncelik |
-|--------|-------|----------|----------|
-| [Eylem maddesi] | [Kim] | [Ne zaman] | [Yüksek/Orta/Düşük] |
-
-## Başarı Metrikleri
-| Metrik | Mevcut | Hedef | Ölçüm Yöntemi |
-|--------|---------|--------|-------------------|
-| [KPI] | [Başlangıç] | [Hedef] | [Nasıl ölçülür] |
-
-## Riskler ve Azaltmalar
-| Risk | Olasılık | Etki | Azaltma |
-|------|-----------|--------|------------|
-| [Risk] | [Y/O/D] | [Y/O/D] | [Eylem] |
-
-## Sonraki Adımlar
-- [ ] [Hemen yapılacak eylem]
-- [ ] [Takip eylemi]
-- [ ] [Gözden geçirme tarihi]
+Formatı:
+```
+Kazanım 1: [Ne oldu]
+Kazanım 2: [Ne oldu]
+Kazanım 3: [Ne oldu]
 ```
 
-## Uygulanabilir Çerçeveler
-- Getting Things Done (GTD)
-- Eisenhower Matrix
-- Pomodoro Technique
-- Time Blocking
-- Weekly Review
-- SMART Goals
-- Deep Work
+Kazanım bulamıyorsan daha derine bak: yeni bir şey öğrendin mi? Zor bir müşteriyle başa çıktın mı? Bir sistemi iyileştirdin mi?
 
-## Temel Metrikler
-- Tasks Completed
-- Deep Work Hours
-- Meeting Load (%)
-- Goal Progress
-- Energy Level
-- Decision Quality
+### Dakika 17-25: Gelecek Haftanın MIT Planı
 
-## En İyi Pratikler
-- Most important task first, before email
-- Batch similar tasks together
-- 2-minute rule: if it takes less, do it now
-- Calendar audit monthly — eliminate 20% of meetings
-- Weekly review on Friday, weekly plan on Sunday/Monday
+Her gün için tek bir Most Important Task (MIT) belirle. MIT = o gün tamamlanırsa günü başarılı sayacağın iş.
 
-## Tamamlandıktan Sonra
+| Gün | MIT |
+|-----|-----|
+| Pazartesi | _________________________ |
+| Salı | _________________________ |
+| Çarşamba | _________________________ |
+| Perşembe | _________________________ |
+| Cuma | _________________________ |
 
-- Bu çıktı proje bağlamını veya önceliklerini değiştiriyorsa `memory.md`'yi güncelle
-- Yeniden kullanılabilir öğrenmeleri `knowledge-nominations.md`'ye ekle
-- Takip eylemleri belirlendiyse bunları `TaskBoard.md`'ye ekle
-- Ek çalışma gerekiyorsa ilgili skill'leri öner
+**Kural**: MIT her zaman gelir getirici veya gelir koruyucu iş olmalı. İç süreç iyileştirme MIT olamaz (haftada en fazla 1 gün hariç).
+
+### Dakika 25-30: Enerji Denetimi (Energy Audit)
+
+İki liste yap:
+
+**Enerji veren işler (daha fazla yap):**
+- _____________________________
+- _____________________________
+
+**Enerji çalan işler (azalt, devret veya kaldır):**
+- _____________________________
+- _____________________________
+
+**Önemli**: Enerji çalan işlerin %80'i devredebilir veya otomatikleştirilebilir. Eğer 3 hafta üst üste aynı iş enerji çalıyorsa, o işi değiştirme zamanı gelmiş demektir.
+
+## Haftalık Sağlık Kontrol Listesi
+
+- [ ] 5 soru cevaplanmış
+- [ ] 4 metrik yazılmış
+- [ ] 3 kazanım kaydedilmiş
+- [ ] 5 günlük MIT belirlenmiş
+- [ ] Enerji denetimi yapılmış
+- [ ] Yarım kalan işler gelecek haftaya taşınmış veya iptal edilmiş
+
+## Örnek Çıktı
+
+Aşağıda bir tasarım stüdyosu yürüten solopreneur'ün tamamlanmış haftalık değerlendirmesi:
+
+```markdown
+# Haftalık Değerlendirme — 21 Mart 2026
+
+## Beş Soru
+1. **En önemli 3 sonuç**: (a) Marka kimlik projesi teslim edildi — ₺18.000 fatura kesildi,
+   (b) 2 yeni lead LinkedIn'den geldi — teklif gönderildi, (c) Proposal şablonu oluşturuldu — artık 30 dk değil 10 dk sürüyor.
+2. **Yarım kalan**: Blog yazısı yazamadım — müşteri revizyonları öncelik aldı. Neden: scope creep, revizyon limitini sözleşmeye koymalıyım.
+3. **Gereksiz iş**: Instagram Reels için 3 saat harcadım, 12 like geldi. ROI sıfır. Durdurmam lazım veya dışarı vermem lazım.
+4. **Gelecek haftanın #1 önceliği**: 2 tekliften en az 1 tanesini kapatmak (₺25.000+ potansiyel).
+5. **Otomatikleştir/devret**: Fatura kesme ve takibi — Parasut + otomatik hatırlatma kurulacak.
+
+## Metrikler
+| Metrik | Bu Hafta | Geçen Hafta | Trend |
+|--------|----------|-------------|-------|
+| Revenue | ₺18.000 | ₺6.500 | yukarı |
+| Site ziyareti | 342 | 298 | yukarı |
+| Yeni e-posta abonesi | 14 | 11 | yukarı |
+| Açık teklif | 2 (₺45.000) | 1 (₺20.000) | yukarı |
+
+## Kazanımlar
+1. İlk kurumsal müşteriyi referansla kazandım
+2. Proposal süremi %66 azalttım (şablon sayesinde)
+3. Bir müşteriden "en iyi çalıştığım tasarımcı" geri bildirimi aldım
+
+## Gelecek Hafta MIT
+| Gün | MIT |
+|-----|-----|
+| Pazartesi | Teklif takip araması — 2 müşteri |
+| Salı | Yeni proje kickoff toplantısı + brief alma |
+| Çarşamba | Logo konseptleri — ilk turda 3 seçenek |
+| Perşembe | Web sitesi portfolio güncellemesi (3 yeni proje ekle) |
+| Cuma | Blog yazısı yaz + haftalık değerlendirme |
+
+## Enerji Denetimi
+**Enerji veren**: Logo tasarımı, müşteri keşif görüşmeleri, yeni iş geliştirme
+**Enerji çalan**: Fatura takibi, Instagram içerik üretimi, revizyon döngüleri
+→ Aksiyon: Revizyon limitini sözleşmeye ekle (maks 2 revizyon dahil, sonrası ücretli)
+```

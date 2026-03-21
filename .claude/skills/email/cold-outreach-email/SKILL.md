@@ -1,131 +1,209 @@
 ---
-description: Yapılandırılmış süreç, kalite kontrolleri ve sistem entegrasyonu ile bir soğuk erişim e-postası oluşturun
+description: Yanıt alan soğuk e-posta ve takip dizisi yaz — solopreneur'ler için müşteri kazanma rehberi
 ---
 
 # Soğuk Erişim E-postası
 
-## Amaç
+Soğuk e-posta, solopreneur'ün en ucuz müşteri kazanma kanalıdır. Reklam bütçesi gerektirmez. Ama kuralları var: kısa ol, kişisel ol, değer sun. Spam gönderen değil, ilişki başlatan ol.
 
-Eyleme dönüştürülebilir, ölçülebilir sonuçlar sunan kapsamlı bir soğuk erişim e-postası oluşturun. Bu beceri, her seferinde profesyonel düzeyde çıktı sağlayan, kalite doğrulamalı yapılandırılmış bir süreç sunar.
+## 3 Satırlık Soğuk E-posta Formülü
 
-**Kategori**: E-posta Pazarlama
+Her soğuk e-posta 3 parçadan oluşur. Daha fazlası gereksiz:
 
-## Girdiler
-
-### Zorunlu
-- **Hedef**: Bu çıktı ile neyi başarmak istiyorsunuz
-- **Hedef Kitle**: Bunun kime yönelik olduğu (demografik, psikografik, sorun noktaları)
-
-### İsteğe Bağlı
-- **Marka Sesi**: Ton ve stil yönergeleri (mevcut olanlar için knowledge-base'i kontrol edin)
-- **Rakipler**: Farklılaşma sağlanacak temel rakipler
-
-## Sistem Bağlamı
-
-Başlamadan önce:
-- Mevcut proje bağlamı ve öncelikleri için `memory.md`'yi oku
-- İlgili öğrenilmiş kurallar veya kısıtlamalar için `knowledge-base.md`'yi kontrol et
-- Projedeki mevcut ilgili belgeleri gözden geçir
-- Bu çıktı ile ilgili `TaskBoard.md`'deki aktif görevleri not et
-
-## Süreç
-
-### Adım 1: Bağlam ve Araştırma
-- Projedeki mevcut soğuk erişim e-postası belgelerini gözden geçir
-- İlgili öğrenilmiş kurallar veya kısıtlamalar için knowledge-base.md'yi kontrol et
-- Mevcut proje bağlamı ve öncelikleri için memory.md'yi kontrol et
-- Temel paydaşları ve gereksinimlerini belirle
-- En uygun çerçeveyi seç: Welcome → Nurture → Convert → Retain yaşam döngüsü, Segmentation Ladder, RFM (Recency, Frequency, Monetary)
-
-### Adım 2: Analiz ve Çerçeve Uygulaması
-- Soğuk erişim e-postasını yapılandırmak için seçilen çerçeveyi uygula
-- Boşlukları, fırsatları ve riskleri belirle
-- Başarı metriklerini tanımla: Open Rate (kıyaslama: %20-25), Click Rate (kıyaslama: %2-5), Conversion Rate, Unsubscribe Rate (%0,5 altında tut)
-- Varsayımları ve bağımlılıkları belgele
-- Yaklaşımı sektör en iyi pratiklerine göre doğrula
-
-### Adım 3: Çıktıyı Oluştur
-- Aşağıdaki çıktı formatını kullanarak soğuk erişim e-postasını yapılandır
-- Genel tavsiyeler değil, spesifik ve eyleme dönüştürülebilir öneriler ekle
-- Uygun yerlerde somut rakamlar, zaman çizelgeleri ve kıyaslamalar ekle
-- Tutarlılık için mevcut proje belgeleriyle çapraz referans yap
-- Her bölümün değer kattığından emin ol — dolgu içeriği kaldır
-
-### Adım 4: Kalite Doğrulama
-- [ ] Tüm zorunlu girdiler ele alındı
-- [ ] Öneriler spesifik ve eyleme dönüştürülebilir (belirsiz değil)
-- [ ] Rakamlar ve kıyaslamalar gerçekçi ve kaynaklı
-- [ ] Çıktı formatı aşağıdaki spesifikasyona uyuyor
-- [ ] knowledge-base kurallarıyla çelişki yok
-- [ ] En iyi pratiğe uyuyor: Konu satırları 50 karakterin altında
-
-## Çıktı Formatı
-
-```markdown
-# Soğuk Erişim E-postası
-
-## Yönetici Özeti
-[Çıktının ve temel önerilerin 2-3 cümlelik özeti]
-
-## Bağlam ve Hedefler
-- **Hedef**: [Bunun neyi başardığı]
-- **Kitle**: [Bunun kime yönelik olduğu]
-- **Zaman Çizelgesi**: [Bunun ne zaman geçerli olduğu]
-
-## Analiz
-[Seçilen çerçeveyi kullanan yapılandırılmış analiz]
-
-## Öneriler
-1. [Beklenen etkiyle birlikte spesifik, eyleme dönüştürülebilir öneri]
-2. [Beklenen etkiyle birlikte spesifik, eyleme dönüştürülebilir öneri]
-3. [Beklenen etkiyle birlikte spesifik, eyleme dönüştürülebilir öneri]
-
-## Uygulama
-| Eylem | Sorumlu | Zaman Çizelgesi | Öncelik |
-|-------|---------|-----------------|---------|
-| [Eylem maddesi] | [Kim] | [Ne zaman] | [Yüksek/Orta/Düşük] |
-
-## Başarı Metrikleri
-| Metrik | Mevcut | Hedef | Ölçüm Yöntemi |
-|--------|--------|-------|---------------|
-| [KPI] | [Başlangıç] | [Hedef] | [Nasıl ölçülecek] |
-
-## Riskler ve Azaltmalar
-| Risk | Olasılık | Etki | Azaltma |
-|------|----------|------|---------|
-| [Risk] | [Y/O/D] | [Y/O/D] | [Eylem] |
-
-## Sonraki Adımlar
-- [ ] [Acil sonraki eylem]
-- [ ] [Takip eylemi]
-- [ ] [Gözden geçirme tarihi]
+```
+Satır 1: İltifat (spesifik, samimi, araştırmaya dayalı)
+Satır 2: Bağlantı (senin yaptığın şey + onların sorunu)
+Satır 3: İstek (küçük, kolay, düşük eşikli)
 ```
 
-## Uygulanabilir Çerçeveler
-- Welcome → Nurture → Convert → Retain yaşam döngüsü
-- Segmentation Ladder
-- RFM (Recency, Frequency, Monetary)
-- Progressive Profiling
-- Behavioral Triggers
+**Neden 3 satır:** Karar verici kişiler günde 50-100 e-posta alır. İlk 2 saniyede "bu bana yazılmış" dedirtemezsen silinirsin. Uzun e-posta = tembel e-posta.
 
-## Temel Metrikler
-- Open Rate (kıyaslama: %20-25)
-- Click Rate (kıyaslama: %2-5)
-- Conversion Rate
-- Unsubscribe Rate (%0,5 altında tut)
-- Deliverability Rate (hedef: %95+)
-- Revenue Per Email
+## Konu Satırı Kuralları
 
-## En İyi Pratikler
-- Konu satırları 50 karakterin altında
-- Ön izleme metni ikinci başlığınızdır — asla boşa harcamayın
-- E-posta başına bir ana CTA
-- Saat dilimine göre gönderim zamanı optimizasyonu
-- Listeyi üç ayda bir temizle (6 ay aktif olmayanları kaldır)
+| Kural | Doğru | Yanlış |
+|-------|-------|--------|
+| 3-5 kelime, küçük harf | `siteniz hakkında bir fikir` | `SİZİN İÇİN ÖZEL TEKLİF!!!` |
+| Kişisel his | `[isim], kısa bir soru` | `İş Ortaklığı Teklifi` |
+| Merak uyandır | `bunu fark ettim` | `Web Tasarım Hizmetlerimiz` |
+| Sahte "Re:" kullanma | `podcast bölümünüz hakkında` | `Re: Görüşmemiz` |
 
-## Tamamlandıktan Sonra
+**Benchmark:** Soğuk e-postada %30-50 Open Rate iyi sayılır. %30 altındaysa konu satırını değiştir.
 
-- Bu çıktı proje bağlamını veya önceliklerini değiştiriyorsa `memory.md`'yi güncelle
-- Yeniden kullanılabilir öğrenimleri `knowledge-nominations.md`'ye ekle
-- Takip eylemleri belirlendiyse bunları `TaskBoard.md`'ye ekle
-- Ek çalışma gerekiyorsa ilgili becerileri öner
+## İlk Satır: Kişiselleştirme Kuralı
+
+İlk cümle o kişiye özel olmalı. Şablon kullanamazsın. Her alıcı için 3-5 dakika araştırma yap:
+
+**Nereden araştırırsın:**
+- LinkedIn son paylaşımları
+- Kişisel blog veya podcast
+- Şirket blogu veya basın bültenleri
+- Twitter/X paylaşımları
+
+**İyi kişiselleştirme örnekleri:**
+- "Product Hunt'taki lansman yazınızı okudum — özellikle onboarding flow'a yaptığınız değişiklik dikkatimi çekti."
+- "Geçen haftaki podcast bölümünde müşteri kaybı hakkında söylediğiniz şey çok doğruydu."
+- "Sitenizin yeni tasarımını gördüm — özellikle pricing sayfası çok temiz olmuş."
+
+**Kötü kişiselleştirme (yapma):**
+- "Şirketinizi inceledim ve çok etkilendim" (belirsiz, tembel)
+- "Sektörünüzde lider olduğunuzu biliyorum" (yağcılık)
+- "[Şirket adı] harika bir iş çıkarıyor" (hangi iş?)
+
+## E-posta Gövdesi: Bağlantı Cümlesi
+
+Formül: `[Senin uzmanlığın] + [onların spesifik sorunu] + [kısa kanıt]`
+
+Örnekler:
+- "Benzer ölçekteki SaaS şirketlerinin landing page'lerini optimize ediyorum — son müşterimde Conversion Rate'i %2,1'den %4,8'e çıkardık."
+- "E-ticaret siteleri için ürün fotoğrafçılığı yapıyorum — [rakip site] ile karşılaştırdığımda ürün görsellerinizin güncellenmesinin satışları artıracağını düşünüyorum."
+
+## CTA: Düşük Eşikli İstek
+
+İlk e-postada satış yapma. Küçük bir adım iste:
+
+| İyi CTA | Kötü CTA |
+|---------|----------|
+| "Bu konuda 15 dakika konuşmak ister misiniz?" | "Hizmetlerimizi incelemek için tıklayın" |
+| "Size kısa bir video analiz gönderebilir miyim?" | "Fiyat listemizi ekte bulabilirsiniz" |
+| "İlgilenirse bu hafta müsait misiniz?" | "Demo toplantısı ayırtmak için formu doldurun" |
+
+## Takip (Follow-up) Kadansı
+
+Çoğu yanıt ilk e-postadan değil, takiplerden gelir. 3 takip yeterli — daha fazlası rahatsız eder.
+
+### Takip 1 — Gün 3
+**Strateji:** Kısa, nazik hatırlatma. Yeni bir bilgi ekle.
+
+```
+Konu: (aynı thread — yeni konu satırı açma)
+
+Merhaba [İsim],
+
+Geçen gönderdiğim e-postayı gördünüz mü bilmiyorum — yoğun dönem olabilir.
+
+Bu arada [ilgili küçük değer: kısa bir ipucu, ilgili bir makale linki, bir benchmark verisi] sizin işinize yarayabilir diye düşündüm.
+
+İlgilenirseniz 15 dakikalık bir görüşme için bu hafta müsaidim.
+
+[İsim]
+```
+
+### Takip 2 — Gün 7
+**Strateji:** Farklı açıdan yaklaş. Bir sonuç veya vaka çalışması paylaş.
+
+```
+Merhaba [İsim],
+
+Kısa bir güncelleme: Bu hafta [benzer bir müşteri/proje]'de [spesifik sonuç] elde ettik.
+
+[Tek cümlelik bağlantı: onların durumuna nasıl uygulanabileceği]
+
+İlgilenirseniz detayları paylaşabilirim.
+
+[İsim]
+```
+
+### Takip 3 — Gün 14
+**Strateji:** "Break-up email" — kibarca kapıyı kapat. Bu e-posta şaşırtıcı şekilde en çok yanıt alan takip olur.
+
+```
+Merhaba [İsim],
+
+Sanırım zamanlama uygun değil — sorun değil.
+
+Eğer ileride [konu] hakkında konuşmak isterseniz bu e-postayı yanıtlamanız yeterli.
+
+İyi çalışmalar,
+[İsim]
+```
+
+## YAPMA Listesi
+
+1. **Ek dosya gönderme** — Spam filtrelerini tetikler. PDF, sunum, fiyat listesi ekleme.
+2. **HTML tasarım kullanma** — Düz metin (plain text) gönder. HTML e-postalar "pazarlama" kokar.
+3. **Sahte "Re:" veya "Fwd:" kullanma** — Güven kırar, geri dönüşü olmaz.
+4. **Aynı şablonu 100 kişiye gönderme** — İlk cümle her alıcıda farklı olmalı.
+5. **İlk e-postada fiyat söyleme** — Önce ilişki kur, sonra fiyat konuş.
+6. **Günde 50+ soğuk e-posta gönderme** — Domain itibarını yakar. Günde 15-25 yeterli, yeni domain'lerde 10 ile başla.
+7. **Kişisel e-posta kullanma** — Gmail/Hotmail'den soğuk e-posta gönderme. Kendi domain'in olsun.
+
+## Araçlar
+
+| İhtiyaç | Araç | Solopreneur Notu |
+|---------|------|------------------|
+| E-posta bulma | Hunter.io, Apollo.io, Snov.io | Hunter.io ücretsiz planda ayda 25 arama |
+| E-posta doğrulama | NeverBounce, ZeroBounce | Göndermeden önce mutlaka doğrula — bounce'lar domain'i yakar |
+| Gönderim | Instantly.ai, Lemlist, GMass | Instantly.ai solopreneur'ler arasında fiyat/performans lideri |
+| Takip (tracking) | Gönderim aracının built-in tracking'i | Ayrı tracking pixel ekleme, deliverability düşer |
+| CRM | Notion, Google Sheets | Başlangıçta CRM'e para verme, spreadsheet yeterli |
+
+## Benchmark'lar
+
+| Metrik | İyi | Orta | Kötü |
+|--------|-----|------|------|
+| Open Rate | %40+ | %30-40 | %30 altı |
+| Response Rate | %10-15 | %5-10 | %5 altı |
+| Pozitif Response Rate | %3-5 | %1-3 | %1 altı |
+| Bounce Rate | <%2 | %2-5 | %5+ (acil durdur) |
+
+**Response Rate %5 altındaysa kontrol listesi:**
+1. Konu satırın çok kurumsal mı?
+2. İlk cümlen gerçekten kişisel mi?
+3. E-postan 100 kelimeden uzun mu?
+4. CTA'n çok büyük bir istek mi?
+5. Doğru kişiye mi yazıyorsun?
+
+---
+
+## Örnek Çıktı
+
+**Senaryo:** Freelance web tasarımcı, Seed aşamasındaki startup'lara ulaşıyor.
+
+### İlk E-posta
+**Konu:** product hunt lansmanınız hakkında
+
+> Merhaba Deniz,
+>
+> Product Hunt'taki TaskFlow lansmanını gördüm — özellikle "ekip içi görev handoff" özelliği çok akıllıca. İlk günde 180 upvote almak da kolay değil, tebrikler.
+>
+> Seed aşamasındaki SaaS ürünlerinin landing page'lerini optimize ediyorum. Son çalışmamda benzer bir proje yönetim aracının free trial Conversion Rate'ini %3,2'den %6,7'ye çıkardık — sadece hero section ve pricing sayfasını değiştirerek.
+>
+> TaskFlow'un landing page'i hakkında 15 dakika konuşmak ister misiniz? Birkaç hızlı fikrimi paylaşabilirim.
+>
+> Emre
+
+### Takip 1 — Gün 3
+**Konu:** (aynı thread)
+
+> Merhaba Deniz,
+>
+> Geçen e-postamı gördünüz mü bilmiyorum — lansman sonrası yoğundur muhtemelen.
+>
+> Bu arada, SaaS landing page'lerinde pricing bölümünün hero'nun hemen altına taşınmasının Conversion Rate'i ortalama %15-20 artırdığını gösteren bir analiz gördüm. TaskFlow'un pricing'i şu an sayfanın en altında — bu tek değişiklik bile fark yaratabilir.
+>
+> İlgilenirseniz bu hafta 15 dakikam var.
+>
+> Emre
+
+### Takip 2 — Gün 7
+**Konu:** (aynı thread)
+
+> Merhaba Deniz,
+>
+> Kısa bir güncelleme: Bu hafta bir proje yönetim SaaS'ının landing page'ini yeniledik — ilk 2 haftada free trial kayıtları %40 arttı.
+>
+> TaskFlow'un mevcut trafiğiyle benzer bir iyileşme potansiyeli olduğunu düşünüyorum. İlgilenirseniz 3 dakikalık bir Loom video ile spesifik önerilerimi gönderebilirim.
+>
+> Emre
+
+### Takip 3 — Gün 14
+**Konu:** (aynı thread)
+
+> Merhaba Deniz,
+>
+> Sanırım zamanlama uygun değil — tamamen anlıyorum.
+>
+> İleride landing page optimizasyonu gündem gelirse bu e-postayı yanıtlamanız yeterli.
+>
+> Başarılar dilerim,
+> Emre

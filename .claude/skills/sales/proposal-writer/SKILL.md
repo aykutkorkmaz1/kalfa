@@ -1,134 +1,159 @@
 ---
-description: Create a proposal writer with structured process, quality checks, and system integration
+description: Solopreneurler icin kazanan 1 sayfalik teklif yazma sistemi
 ---
 
-# Proposal Writer
+# Teklif Yazma Sistemi (Proposal Writer)
 
-## Amaç
+## Temel Felsefe
 
-Eyleme dönüştürülebilir, ölçülebilir sonuçlar sunan kapsamlı bir proposal writer oluşturun. Bu beceri, her seferinde profesyonel düzeyde çıktı sağlayan, kalite doğrulamalı yapılandırılmış bir süreç sunar.
-
-**Kategori**: Satış ve Gelir & Revenue
+20 sayfalik teklifler okunmaz. Musteri "evet" ya da "hayir" demek istiyor, roman okumak degil. Solopreneur olarak silahin 1 sayfalik, net, profesyonel bir teklif. Kapanma oranin %30-50 arasindaysa dogru yoldasin. %50 ustuyse muhtemelen cok ucuz satiyorsun.
 
 ## Girdiler
 
 ### Zorunlu
-- **Hedef**: Bu çıktı ile neyi başarmak istiyorsunuz
-- **Target Customer**: ICP or specific prospect details
+- **Musteri Adi**: Teklifi kime yaziyorsun
+- **Problem Tanimi**: Musterinin cozmek istedigi spesifik sorun
+- **Hizmet Turu**: Ne satiyorsun (tasarim, danismanlik, yazilim vb.)
 
-### İsteğe Bağlı
-- **Product/Service**: What you're selling and key differentiators
-- **Stage**: Where the prospect is in the buying journey
+### Istege Bagli
+- **Butce Bilgisi**: Musteri butce belirttiyse
+- **Rekabet Durumu**: Baska kimlerden teklif aliyorlar
+- **Aciliyet Seviyesi**: Ne zaman baslamak istiyorlar
 
-## Sistem Bağlamı
+## 1 Sayfalik Teklif Yapisi
 
-Başlamadan önce:
-- Mevcut proje bağlamı ve öncelikleri için `memory.md`'yi oku
-- İlgili öğrenilmiş kurallar veya kısıtlamalar için `knowledge-base.md`'yi kontrol et
-- Projedeki mevcut ilgili belgeleri gözden geçir
-- Bu çıktı ile ilgili `TaskBoard.md`'deki aktif görevleri not et
+Her teklif tam olarak 5 bolumden olusur. Fazlasi gereksiz, azalti eksik.
 
-## Süreç
+### Bolum 1: Problem Ozeti (3-4 cumle)
+Musterinin sana anlattigi sorunu kendi kelimeleriyle geri yansit. Bu "seni dinledim" sinyali verir.
 
-### Adım 1: Bağlam ve Araştırma
-- Projedeki mevcut proposal writer belgelerini gözden geçir
-- İlgili öğrenilmiş kurallar veya kısıtlamalar için `knowledge-base.md`'yi kontrol et
-- Mevcut proje bağlamı ve öncelikleri için `memory.md`'yi kontrol et
-- Kilit paydaşları ve gereksinimlerini belirle
-- En uygun çerçeveyi seç: BANT (Budget, Authority, Need, Timeline), MEDDIC, Challenger Sale
+**Kural**: Kendi hizmetinden bahsetme. Sadece onlarin acisini yaz.
 
-### Adım 2: Analiz ve Çerçeve Uygulaması
-- proposal writer yapılandırmak için seçilen çerçeveyi uygula
-- Boşlukları, fırsatları ve riskleri belirle
-- Başarı metriklerini tanımla: Win Rate, Average Deal Size, Sales Cycle Length, Pipeline Velocity
-- Varsayımları ve bağımlılıkları belgele
-- Yaklaşımı sektör en iyi uygulamalarına göre doğrula
+**Ornek**:
+> Suanda web siteniz aylik 12.000 ziyaretci aliyor ancak donusum orani %0.8'de kaliyor. Bu da ayda sadece ~96 lead demek. Hedefiniz bu rakami 3 ay icinde 3 katina cikarmak ama mevcut site yapisi ve kullanici deneyimi buna izin vermiyor.
 
-### Adım 3: Çıktıyı Oluştur
-- proposal writer aşağıdaki çıktı formatını kullanarak yapılandır
-- Genel tavsiyeler değil, spesifik ve eyleme dönüştürülebilir öneriler ekle
-- Uygulanabilir yerlerde somut rakamlar, zaman çizelgeleri ve kıyaslamalar ekle
-- Tutarlılık için mevcut proje belgeleriyle çapraz referans yap
-- Her bölümün değer kattığından emin ol — dolgu içeriği çıkar
+### Bolum 2: Onerilen Cozum (5-7 madde)
+Ne yapacagini madde madde yaz. Her madde somut ve olculebilir olmali.
 
-### Adım 4: Kalite Doğrulama
-- [ ] Tüm zorunlu girdiler ele alındı
-- [ ] Öneriler spesifik ve eyleme dönüştürülebilir (belirsiz değil)
-- [ ] Rakamlar ve kıyaslamalar gerçekçi ve kaynaklı
-- [ ] Çıktı formatı aşağıdaki spesifikasyona uyuyor
-- [ ] Bilgi tabanı kurallarıyla çelişki yok
-- [ ] En iyi pratiği izliyor: Qualify early and disqualify fast
+**Kural**: "Strateji gelistirme" gibi soyut ifadeler yasak. "Ana sayfa A/B testi: 3 varyant, 2 hafta test suresi" gibi somut yaz.
 
-## Çıktı Formatı
+**Ornek**:
+> 1. Mevcut site analizi ve isitma haritasi raporu (Hotjar + GA4)
+> 2. Landing page yeniden tasarimi (3 sayfa)
+> 3. A/B test kurulumu ve 2 hafta test yonetimi
+> 4. CTA optimizasyonu ve form sadelestrirme
+> 5. Donusum takip dashboardu kurulumu (Google Data Studio)
+
+### Bolum 3: Zaman Cizelgesi
+Hafta hafta ne olacak. Musteri belirsizlikten nefret eder.
+
+**Ornek**:
+> - Hafta 1-2: Analiz ve arastirma
+> - Hafta 3-4: Tasarim ve gelistirme
+> - Hafta 5-6: Test ve optimizasyon
+> - Hafta 7: Final rapor ve devir teslim
+
+### Bolum 4: Yatirim (3 Katmanli Fiyatlandirma)
+
+Her zaman 3 secenek sun. Bu "alayim mi almayayim mi" kararini "hangisini alayim" kararinma cevirir.
+
+**Anchor High teknigi**: En pahali secenegi ilk yaz. Bu, ortanca secenegi makul gosterir.
+
+| Paket | Kapsam | Yatirim |
+|-------|--------|---------|
+| **Premium** | Tam kapsam + 3 ay destek + aylik raporlama | 7.000 TL |
+| **Standart** | Tam kapsam + 1 ay destek | 5.000 TL |
+| **Baslangic** | Temel kapsam (analiz + tasarim) | 3.000 TL |
+
+**Onemli**: "Fiyat" kelimesini kullanma. "Yatirim" kullan. Psikolojik fark buyuk.
+
+**Odeme yapisi**: %50 baslangicta, %50 teslimde. Kucuk projeler (<3.000 TL) icin %100 pesinat iste.
+
+### Bolum 5: Sonraki Adim (Tek cumle)
+
+Net bir CTA ver. "Dusunun" deme. Toplanti icin gun ver.
+
+**Ornek**:
+> Bu teklifi onaylamak icin 25 Mart Carsamba veya 27 Mart Cuma gunu 15 dakikalik bir gorusme ayarlayabiliriz. Hangi gun uygun?
+
+## "Cok Pahali" Itirazini Yonetme
+
+Asla fiyat dusurme. Bunun yerine 3 strateji kullan:
+
+**Strateji 1 — Degeri yeniden cercevele**:
+> "Bu yatirim size 3 ayda tahminen 288 ekstra lead getirecek. Lead basina maliyetiniz ~17 TL oluyor. Google Ads'te ayni lead icin 85-120 TL oduyorsunuz."
+
+**Strateji 2 — Kapsami daralt**:
+> "Butcenize uygun bir kapsam olusturabiliriz. Baslangic paketiyle analiz ve temel tasarimi yapip, sonuclara gore ikinci fazda devam edebiliriz."
+
+**Strateji 3 — Zamanlama oner**:
+> "Odemeyi 2 taksit yerine 3 taksite yayabiliriz. Toplam yatirim ayni kalir."
+
+**Asla yapma**: Kendi teklifini dusurme. Bu "aslinda o kadar etmez" mesaji verir.
+
+## Teklif Teslim Kurallari
+
+1. **Format**: PDF gonder, asla email govdesine yazma. PDF profesyonellik sinyali verir
+2. **Dosya adi**: `[SirketAdi]_Teklif_[Tarih].pdf`
+3. **Takip**: Tam 48 saat sonra kisa bir takip mesaji gonder
+4. **Takip mesaji**: "Teklifi inceleme firsatiniz oldu mu? Sorulariniz varsa 15 dakikalik bir gorusme ayarlayabilirim."
+5. **Son takip**: 7 gun sonra. Cevap gelmezse birak. Umutsuz gorunme
+
+## Basari Metrikleri
+
+| Metrik | Saglıksiz | Saglıkli | Mukemmel |
+|--------|-----------|----------|----------|
+| Closing Rate | <%20 | %30-50 | >%50 (cok ucuz olabilirsin) |
+| Ortalama Teklif Degeri | <2.000 TL | 3.000-10.000 TL | >10.000 TL |
+| Teklif Hazirlama Suresi | >3 saat | 30-60 dk | <30 dk (sablon ile) |
+| Takipten Cevap Orani | <%30 | %50-70 | >%70 |
+
+## Kalite Kontrolu
+
+- [ ] Teklif tek sayfaya sigiyor mu (max 2 sayfa)?
+- [ ] Problem ozeti musterinin kendi kelimeleriyle mi yazildi?
+- [ ] 3 fiyat secenegi var mi?
+- [ ] Somut zaman cizelgesi var mi?
+- [ ] Net bir sonraki adim (CTA) var mi?
+- [ ] "Fiyat" yerine "Yatirim" kullanildi mi?
+- [ ] PDF formatinda mi gonderilecek?
+
+## Ornek Cikti
 
 ```markdown
-# Proposal Writer
+# Teklif: Marka Kimlik Tasarimi — Kahve Dukkani "Dem"
 
-## Yönetici Özeti
-[Çıktının ve temel önerilerin 2-3 cümlelik özeti]
+## Problem
+Dem Kahve, 6 aydir faaliyet gosteriyor ancak gorsel kimlik eksikligi nedeniyle
+musteriler markayı hatirlayamıyor. Sosyal medyada tutarsiz gorseller kullaniliyor,
+ambalajlar jenerik gorunuyor ve rakiplerden ayrismaniz zorlasiyor.
 
-## Bağlam ve Hedefler
-- **Hedef**: [Bunun neyi başardığı]
-- **Hedef Kitle**: [Bunun kimin için olduğu]
-- **Zaman Çizelgesi**: [Bunun ne zaman geçerli olduğu]
+## Onerilen Cozum
+1. Marka arastirmasi ve rakip analizi (5 yerel + 3 ulusal rakip)
+2. Logo tasarimi (3 konsept → 1 final + varyasyonlar)
+3. Renk paleti ve tipografi sistemi
+4. Sosyal medya sablon seti (12 adet, Canva uyumlu)
+5. Ambalaj tasarimi (bardak + paket + sadakat karti)
+6. Marka kilavuzu (PDF, 8-10 sayfa)
 
-## Analiz
-[Seçilen çerçeve kullanılarak yapılandırılmış analiz]
+## Zaman Cizelgesi
+- Hafta 1: Arastirma ve brief onay
+- Hafta 2-3: Konsept gelistirme ve ilk sunum
+- Hafta 4: Revizyonlar ve finalizasyon
+- Hafta 5: Tum dosyalarin teslimi
 
-## Öneriler
-1. [Beklenen etkisiyle spesifik, eyleme dönüştürülebilir öneri]
-2. [Beklenen etkisiyle spesifik, eyleme dönüştürülebilir öneri]
-3. [Beklenen etkisiyle spesifik, eyleme dönüştürülebilir öneri]
+## Yatirim
 
-## Uygulama
-| Eylem | Sorumlu | Zaman Çizelgesi | Öncelik |
-|--------|-------|----------|----------|
-| [Eylem maddesi] | [Kim] | [Ne zaman] | [Yüksek/Orta/Düşük] |
+| Paket | Kapsam | Yatirim |
+|-------|--------|---------|
+| **Tam Kimlik** | Tum maddeler + 2 ay destek + 3 revizyon hakki | 7.000 TL |
+| **Standart** | Maddeler 1-5 + 2 revizyon hakki | 5.000 TL |
+| **Temel** | Logo + renk paleti + tipografi | 3.000 TL |
 
-## Başarı Metrikleri
-| Metrik | Mevcut | Hedef | Ölçüm Yöntemi |
-|--------|---------|--------|-------------------|
-| [KPI] | [Başlangıç] | [Hedef] | [Nasıl ölçülür] |
+Odeme: %50 baslangic, %50 teslimde.
 
-## Riskler ve Azaltmalar
-| Risk | Olasılık | Etki | Azaltma |
-|------|-----------|--------|------------|
-| [Risk] | [Y/O/D] | [Y/O/D] | [Eylem] |
-
-## Sonraki Adımlar
-- [ ] [Hemen yapılacak eylem]
-- [ ] [Takip eylemi]
-- [ ] [Gözden geçirme tarihi]
+## Sonraki Adim
+Bu teklifi degerlendirmek icin 26 Mart Carsamba 14:00 veya
+28 Mart Cuma 11:00'de 15 dakikalik bir gorusme ayarlayalim.
+Onayinizi bu emaile yanit vererek iletebilirsiniz.
 ```
-
-## Uygulanabilir Çerçeveler
-- BANT (Budget, Authority, Need, Timeline)
-- MEDDIC
-- Challenger Sale
-- SPIN Selling
-- Sandler Selling System
-- Solution Selling
-- Value Selling
-
-## Temel Metrikler
-- Win Rate
-- Average Deal Size
-- Sales Cycle Length
-- Pipeline Velocity
-- Quota Attainment
-- Activity Metrics (calls/emails/meetings)
-- Forecast Accuracy
-
-## En İyi Pratikler
-- Qualify early and disqualify fast
-- Follow up within 5 minutes of inbound leads
-- Multi-thread every deal (3+ contacts)
-- Always confirm next steps before ending a call
-- Log every interaction in CRM within 24 hours
-
-## Tamamlandıktan Sonra
-
-- Bu çıktı proje bağlamını veya önceliklerini değiştiriyorsa `memory.md`'yi güncelle
-- Yeniden kullanılabilir öğrenmeleri `knowledge-nominations.md`'ye ekle
-- Takip eylemleri belirlendiyse bunları `TaskBoard.md`'ye ekle
-- Ek çalışma gerekiyorsa ilgili skill'leri öner

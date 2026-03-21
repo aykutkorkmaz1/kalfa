@@ -37,6 +37,18 @@ irm https://claude.ai/install.ps1 | iex
 
 ## 2. Repo'yu klonla ve projeye kopyala
 
+Tercih edilen hızlı kurulum:
+
+```bash
+# Hedef proje klasörüne gir
+cd /Users/seninkullanicin/projeler/benim-projem
+
+# Kalfa OS dosyalarını otomatik kur
+npx @komunite/kalfa-os init
+```
+
+Manuel kurulum yapmak istersen:
+
 ```bash
 # Repo'yu bilgisayarına indir
 git clone https://github.com/komunite/kalfa-os.git

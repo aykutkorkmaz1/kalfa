@@ -30,6 +30,32 @@ Sizde bulunması gerekenler:
 * Terminal erişimi olan bir işletim sistemi (macOS, Linux veya Windows)
 * Proje klasöründe dosya yazma yetkisi
 
+## NPM ile hızlı kurulum
+
+Kalfa OS'u hedef projenize tek komutla kurabilirsiniz:
+
+```bash
+npx @komunite/kalfa-os init
+```
+
+Farklı bir dizine kurmak için:
+
+```bash
+npx @komunite/kalfa-os init --target /proje/dizini
+```
+
+Mevcut dosyaların üzerine yazmak için:
+
+```bash
+npx @komunite/kalfa-os init --force
+```
+
+Yalnızca ne yapılacağını görmek için:
+
+```bash
+npx @komunite/kalfa-os init --dry-run
+```
+
 ## Kalfa OS nasıl kullanılır
 
 ### Yeni bir oturum başlat

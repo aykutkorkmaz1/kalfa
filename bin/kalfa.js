@@ -9,11 +9,11 @@ const TEMPLATE_ITEMS = [
 ];
 
 function printHelp() {
-	console.log(`Kalfa OS Komut Satırı Aracı
+	console.log(`Kalfa Komut Satırı Aracı
 
 Usage:
-  kalfa-os init [--target HEDEF_DIZIN] [--force] [--dry-run]
-  kalfa-os --help
+  kalfa init [--target HEDEF_DIZIN] [--force] [--dry-run]
+  kalfa --help
 
 Seçenekler:
   --target HEDEF_DIZIN  Hedef proje dizini (varsayılan: mevcut dizin)
@@ -124,7 +124,7 @@ function runInit(options) {
 	}
 
 	const mode = options.dryRun ? "ÖNİZLEME" : "TAMAMLANDI";
-	console.log(`[${mode}] Kalfa OS şu dizine kuruldu: ${targetRoot}`);
+	console.log(`[${mode}] Kalfa şu dizine kuruldu: ${targetRoot}`);
 	console.log(`Kopyalanan: ${results.copied.length}`);
 	console.log(`Atlanan: ${results.skipped.length}`);
 	console.log(`Oluşturulan dizin: ${results.createdDirs.length}`);

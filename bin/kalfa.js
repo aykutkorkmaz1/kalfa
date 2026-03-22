@@ -2,13 +2,20 @@
 
 const fs = require("node:fs");
 const path = require("node:path");
+const figlet = require("figlet");
 
 const TEMPLATE_ITEMS = [
 	".claude",
 	"CLAUDE.md",
 ];
 
+function printBanner() {
+	const banner = figlet.textSync("KALFA", { font: "Block" });
+	console.log(`\x1b[38;2;217;119;87m${banner}\x1b[0m`);
+}
+
 function printHelp() {
+	printBanner();
 	console.log(`Kalfa Komut Satırı Aracı
 
 Usage:
@@ -35,11 +42,13 @@ function parseArgs(argv) {
 	const input = argv.slice(2);
 	if (input.length === 0) return args;
 
-	args.command = input[0];
-
-	for (let i = 1; i < input.length; i += 1) {
+	for (let i = 0; i < input.length; i += 1) {
 		const token = input[i];
-		if (token === "--target") {
+		if (token === "-h" || token === "--help") {
+			args.help = true;
+		} else if (args.command === null) {
+			args.command = token;
+		} else if (token === "--target") {
 			const value = input[i + 1];
 			if (!value) {
 				throw new Error("--target için bir değer verilmedi");
@@ -50,8 +59,6 @@ function parseArgs(argv) {
 			args.force = true;
 		} else if (token === "--dry-run") {
 			args.dryRun = true;
-		} else if (token === "-h" || token === "--help") {
-			args.help = true;
 		} else {
 			throw new Error(`Bilinmeyen seçenek: ${token}`);
 		}

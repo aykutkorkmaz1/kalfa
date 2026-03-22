@@ -28,6 +28,13 @@ test("supports `help` alias", async () => {
 	assert.match(stdout, /Seçenekler:/);
 });
 
+test("supports `--help` flag", async () => {
+	const { stdout, stderr } = await runCli(["--help"]);
+	assert.equal(stderr, "");
+	assert.match(stdout, /Kalfa Komut Satırı Aracı/);
+	assert.match(stdout, /Seçenekler:/);
+});
+
 test("fails for a non-existent target directory", async () => {
 	const missingTarget = path.join(os.tmpdir(), "kalfa-missing-target-xyz");
 	if (fs.existsSync(missingTarget)) {

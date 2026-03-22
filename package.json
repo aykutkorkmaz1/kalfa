@@ -59,5 +59,8 @@
 		"remark-cli": "^12.0.1",
 		"remark-gfm": "^4.0.1",
 		"remark-preset-lint-recommended": "^7.0.1"
+	},
+	"dependencies": {
+		"figlet": "^1.11.0"
 	}
 }
